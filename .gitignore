@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Environment / secrets — NEVER commit these
+backend/.env
+.env
+.env.local
+.env.*.local
+
+# SQLite database (regenerated on deploy)
+backend/data/moneymirror.db
+*.db
+*.sqlite
+
+# Node
+node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*

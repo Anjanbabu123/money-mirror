@@ -1,0 +1,1501 @@
+date,description,amount,type,source,account,category,merchant
+2025-01-01,UPI/Swiggy/Food Order,224.04,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-01-01,UPI/EasyPark/Parking Fee,73.51,debit,UPI,HDFC Savings,Miscellaneous,EasyPark
+2025-01-01,UPI/McDonald's/Order,210.16,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-01-01,UPI/Ola/Order,329.95,debit,UPI,HDFC Savings,Travel,Ola
+2025-01-01,UPI/Cafe Coffee Day/Order,108.39,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-01-01,UPI/HP Petrol Pump/Purchase,510.6,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-01-01,UPI/Zomato/Quick Pay,337.83,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-01-01,UPI/KFC/Order,419.93,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-01-01,UPI/Rapido/Pay,71.27,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-01,UPI/Big Basket/Quick Pay,590.98,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-01-01,UPI/UPI Misc 1/Pay,79.73,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-01-01,UPI/Haldiram's/Quick Pay,158.01,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-01-01,UPI/Spencer's/Order,397.86,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-01-01,UPI/Namma Yatri/Order,273.11,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-02,Rent Payment - Prestige Residency,22000.0,debit,NEFT,HDFC Savings,Rent,Prestige Residency
+2025-01-02,UPI/Reliance Fresh/Grocery,954.87,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-01-02,UPI/Pay/Pooja N,1454.18,debit,UPI,SBI Savings,Transfers,Pooja N
+2025-01-02,UPI/Uber/Quick Pay,153.95,debit,UPI,HDFC Savings,Travel,Uber
+2025-01-02,UPI/HP Petrol Pump/Quick Pay,1104.02,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-01-03,Salary Credit - TechCorp Solutions Pvt Ltd,200000.0,credit,NEFT,HDFC Savings,Salary,TechCorp Solutions
+2025-01-03,UPI/Zomato/Food Order,408.96,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-01-03,UPI/Uber/Ride,247.71,debit,UPI,SBI Savings,Travel,Uber
+2025-01-03,Bill/Jio Broadband,936.2,debit,UPI,HDFC Savings,Utilities,Jio Broadband
+2025-01-03,UPI/Pay/Rahul S,1256.07,debit,UPI,HDFC Savings,Transfers,Rahul S
+2025-01-03,UPI/UPI Misc 0/Order,153.1,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-01-03,UPI/Namma Yatri/Pay,229.14,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-03,UPI/Domino's/Order,689.91,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-01-03,UPI/Rapido/Quick Pay,136.82,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-03,UPI/Domino's/Quick Pay,464.31,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-01-04,UPI/BMTC/Bus Ticket,47.14,debit,UPI,HDFC Savings,Travel,BMTC
+2025-01-04,UPI/BMTC/Bus Ticket,51.63,debit,UPI,SBI Savings,Travel,BMTC
+2025-01-04,UPI/Pay/Sneha R,1129.65,debit,UPI,SBI Savings,Transfers,Sneha R
+2025-01-04,UPI/Pay/Pooja N,645.67,debit,UPI,SBI Savings,Transfers,Pooja N
+2025-01-04,UPI/Pay/Vikram M,887.98,debit,UPI,HDFC Savings,Transfers,Vikram M
+2025-01-04,UPI/Blinkit/Quick Pay,551.84,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-01-04,UPI/Ola/Quick Pay,172.79,debit,UPI,HDFC Savings,Travel,Ola
+2025-01-04,UPI/Namma Yatri/Quick Pay,282.79,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-04,UPI/BPCL/Pay,1646.03,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-01-05,Home Loan EMI - HDFC Bank HL2023,18450.0,debit,EMI,HDFC Savings,EMI,HDFC Bank
+2025-01-05,Subscription/Netflix,649.0,debit,Credit Card,HDFC Credit Card,Entertainment,Netflix
+2025-01-05,UPI/Subway/Quick Pay,105.8,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-01-05,UPI/Shell/Quick Pay,2945.21,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-01-05,UPI/Ola/Order,525.28,debit,UPI,HDFC Savings,Travel,Ola
+2025-01-05,UPI/Starbucks/Purchase,592.13,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-01-06,UPI/Nature's Basket/Grocery,2454.79,debit,UPI,HDFC Savings,Groceries,Nature's Basket
+2025-01-06,UPI/Received/Rahul S,619.21,credit,UPI,SBI Savings,Transfers,Rahul S
+2025-01-06,UPI/Ola/Purchase,73.98,debit,UPI,SBI Savings,Travel,Ola
+2025-01-06,UPI/UPI Misc 2/Pay,180.76,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-01-06,UPI/Rapido/Quick Pay,73.82,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-06,UPI/HP Petrol Pump/Quick Pay,1148.5,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-01-06,UPI/Namma Yatri/Purchase,95.82,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-07,SIP - Axis Bluechip Fund,3000.0,debit,SIP,HDFC Savings,Investments,Axis Bluechip Fund
+2025-01-07,SIP - Mirae Asset ELSS,2000.0,debit,SIP,HDFC Savings,Investments,Mirae Asset ELSS
+2025-01-07,SIP - Parag Parikh Flexi,5000.0,debit,SIP,HDFC Savings,Investments,Parag Parikh Flexi Cap
+2025-01-07,UPI/Swiggy Instamart/Food Order,874.33,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-01-07,UPI/Dunzo/Quick Bite,152.03,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-01-07,UPI/Big Basket/Grocery,2205.17,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-01-07,UPI/BMTC/Bus Ticket,20.82,debit,UPI,SBI Savings,Travel,BMTC
+2025-01-07,Subscription/YouTube Premium,189.0,debit,Credit Card,HDFC Credit Card,Entertainment,YouTube Premium
+2025-01-07,Mobile Recharge/Jio,297.9,debit,UPI,HDFC Savings,Utilities,Jio
+2025-01-07,UPI/Starbucks/Order,396.15,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-01-07,UPI/Uber/Pay,110.25,debit,UPI,SBI Savings,Travel,Uber
+2025-01-07,UPI/Namma Yatri/Purchase,287.28,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-07,UPI/UPI Misc 4/Quick Pay,146.03,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-01-07,UPI/Ola/Purchase,511.32,debit,UPI,SBI Savings,Travel,Ola
+2025-01-08,UPI/McDonald's/Quick Bite,162.92,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-01-08,Tata Cliq/Online Purchase,4148.68,debit,UPI,SBI Savings,Shopping,Tata Cliq
+2025-01-08,Flipkart/Online Purchase,5910.03,debit,UPI,HDFC Savings,Shopping,Flipkart
+2025-01-08,UPI/BMTC/Bus Ticket,28.04,debit,UPI,SBI Savings,Travel,BMTC
+2025-01-08,UPI/Received/Ankit J,1633.72,credit,UPI,HDFC Savings,Transfers,Ankit J
+2025-01-08,UPI/Swiggy/Pay,495.85,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-01-08,UPI/Namma Yatri/Quick Pay,95.67,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-08,UPI/McDonald's/Order,72.4,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-01-08,UPI/Swiggy Instamart/Pay,311.44,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-01-08,UPI/Namma Yatri/Quick Pay,233.91,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-08,UPI/Shell/Pay,3411.95,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-01-08,UPI/Reliance Fresh/Pay,671.98,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-01-08,UPI/UPI Misc 2/Quick Pay,292.43,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-01-09,UPI/Rapido/Ride,224.87,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-09,UPI/Rapido/Ride,88.41,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-09,UPI/BMTC/Bus Ticket,46.23,debit,UPI,SBI Savings,Travel,BMTC
+2025-01-09,Bill/Piped Gas (IGL),564.63,debit,UPI,SBI Savings,Utilities,Piped Gas (IGL)
+2025-01-09,UPI/Dunzo/Quick Pay,102.85,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-01-09,UPI/Uber/Purchase,280.36,debit,UPI,HDFC Savings,Travel,Uber
+2025-01-09,UPI/UPI Misc 2/Order,219.11,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-01-10,Personal Loan EMI - ICICI Bank PL2024,6200.0,debit,EMI,HDFC Savings,EMI,ICICI Bank
+2025-01-10,UPI/Dunzo/Quick Bite,171.88,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-01-10,UPI/Ola/Ride,425.26,debit,UPI,SBI Savings,Travel,Ola
+2025-01-10,UPI/Spencer's/Purchase,593.01,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-01-10,UPI/Haldiram's/Pay,43.11,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-01-10,UPI/Swiggy Instamart/Quick Pay,179.05,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-01-10,UPI/Zomato/Order,453.68,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-01-10,UPI/Haldiram's/Quick Pay,322.95,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-01-10,UPI/Rapido/Order,137.25,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-10,UPI/Starbucks/Order,336.21,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-01-11,UPI/Namma Yatri/Ride,66.89,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-11,ATM Withdrawal - HDFC Bank,5047.24,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-01-11,UPI/GiveIndia/Donation,1921.5,debit,UPI,SBI Savings,Miscellaneous,GiveIndia
+2025-01-11,UPI/BPCL/Purchase,2820.58,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-01-11,UPI/DMart/Order,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-01-11,UPI/Spencer's/Purchase,360.6,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-01-12,UPI/Rapido/Ride,187.6,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-12,UPI/Namma Yatri/Pay,116.59,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-12,UPI/Rapido/Pay,32.6,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-12,UPI/Dunzo/Pay,319.48,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-01-12,UPI/HP Petrol Pump/Quick Pay,892.15,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-01-12,UPI/UPI Misc 4/Order,168.82,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-01-12,UPI/Namma Yatri/Purchase,38.95,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-12,UPI/Dunzo/Order,102.16,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-01-12,UPI/Domino's/Order,664.76,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-01-13,UPI/UPI Misc 4/Pay,297.08,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-01-13,UPI/Rapido/Order,102.66,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-13,UPI/Uber/Order,123.67,debit,UPI,SBI Savings,Travel,Uber
+2025-01-13,UPI/Subway/Quick Pay,348.81,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-01-13,UPI/KFC/Order,305.48,debit,UPI,SBI Savings,Food & Dining,KFC
+2025-01-13,UPI/Big Basket/Pay,736.33,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-01-13,UPI/Spencer's/Purchase,746.51,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-01-13,UPI/Uber/Pay,39.71,debit,UPI,SBI Savings,Travel,Uber
+2025-01-13,UPI/Swiggy/Quick Pay,318.61,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-01-13,UPI/Dunzo/Order,157.35,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-01-13,UPI/UPI Misc 2/Quick Pay,108.39,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-01-14,Nykaa/Online Purchase,1800.74,debit,UPI,SBI Savings,Shopping,Nykaa
+2025-01-14,UPI/BPCL/Purchase,1319.65,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-01-14,UPI/Rapido/Pay,44.03,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-14,UPI/Cafe Coffee Day/Pay,60.15,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-01-14,UPI/Uber/Order,80.37,debit,UPI,HDFC Savings,Travel,Uber
+2025-01-15,Term Insurance Premium - LIC,14500.0,debit,NEFT,HDFC Savings,Insurance,LIC
+2025-01-15,UPI/Blinkit/Food Order,574.1,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-01-15,UPI/Subway/Food Order,324.78,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-01-15,UPI/Namma Yatri/Ride,164.54,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-15,UPI/Indian Oil/Fuel,3335.71,debit,UPI,SBI Savings,Fuel,Indian Oil
+2025-01-15,Udemy/Online Course,1708.98,debit,Credit Card,HDFC Credit Card,Education,Udemy
+2025-01-15,Credit Card Bill Payment - HDFC CC,26555.21,debit,NEFT,HDFC Savings,Transfers,HDFC Credit Card
+2025-01-15,UPI/UPI Misc 2/Purchase,144.97,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-01-15,UPI/Swiggy/Pay,565.75,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-01-15,UPI/UPI Misc 0/Quick Pay,128.64,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 0
+2025-01-15,UPI/DMart/Pay,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-01-16,Nykaa/Online Purchase,949.39,debit,UPI,SBI Savings,Shopping,Nykaa
+2025-01-16,UPI/Ola/Ride,190.3,debit,UPI,SBI Savings,Travel,Ola
+2025-01-16,UPI/Ola/Order,167.67,debit,UPI,HDFC Savings,Travel,Ola
+2025-01-16,UPI/Spencer's/Pay,543.11,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-01-16,UPI/Cafe Coffee Day/Order,299.26,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-01-16,UPI/Swiggy/Quick Pay,162.36,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-01-16,UPI/HP Petrol Pump/Order,3077.04,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-01-17,UPI/Uber/Ride,620.4,debit,UPI,HDFC Savings,Travel,Uber
+2025-01-17,UPI/Ola/Pay,177.4,debit,UPI,SBI Savings,Travel,Ola
+2025-01-17,UPI/Ola/Quick Pay,230.07,debit,UPI,SBI Savings,Travel,Ola
+2025-01-17,UPI/Swiggy/Quick Pay,625.88,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-01-17,UPI/Ola/Purchase,428.32,debit,UPI,HDFC Savings,Travel,Ola
+2025-01-17,UPI/Rapido/Pay,185.22,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-17,UPI/KFC/Quick Pay,209.23,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-01-17,UPI/Cafe Coffee Day/Order,334.32,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-01-17,UPI/Namma Yatri/Pay,200.68,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-18,UPI/Namma Yatri/Ride,187.42,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-18,UPI/Pay/Priya K,136.97,debit,UPI,SBI Savings,Transfers,Priya K
+2025-01-18,UPI/Uber/Order,647.21,debit,UPI,SBI Savings,Travel,Uber
+2025-01-18,UPI/Uber/Pay,85.12,debit,UPI,HDFC Savings,Travel,Uber
+2025-01-18,UPI/Cafe Coffee Day/Purchase,123.85,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-01-18,UPI/Haldiram's/Purchase,84.62,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-01-18,UPI/DMart/Pay,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-01-18,UPI/Namma Yatri/Purchase,276.06,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-19,Subscription/Amazon Prime,179.0,debit,Credit Card,HDFC Credit Card,Entertainment,Amazon Prime
+2025-01-19,ATM Withdrawal - HDFC Bank,6386.85,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-01-19,UPI/Domino's/Order,576.18,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-01-19,UPI/Domino's/Pay,40.28,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-01-20,Health Insurance - Star Health Annual,12800.0,debit,NEFT,HDFC Savings,Insurance,Star Health
+2025-01-20,UPI/Cafe Coffee Day/Food Order,126.1,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-01-20,UPI/McDonald's/Food Order,259.36,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-01-20,ATM Withdrawal - HDFC Bank,6244.45,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-01-20,UPI/Haldiram's/Pay,245.71,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-01-20,UPI/Big Basket/Order,640.22,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-01-20,UPI/Zomato/Order,352.82,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-01-20,UPI/Spencer's/Quick Pay,647.39,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-01-20,UPI/Uber/Quick Pay,475.14,debit,UPI,HDFC Savings,Travel,Uber
+2025-01-21,UPI/Subway/Food Order,369.36,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-01-21,UPI/Namma Yatri/Ride,230.84,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-21,UPI/Starbucks/Order,325.01,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-01-21,UPI/Shell/Purchase,733.32,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-01-21,UPI/Rapido/Pay,162.74,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-21,UPI/Blinkit/Purchase,154.72,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-01-21,UPI/KFC/Order,54.27,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-01-22,Vehicle Insurance - Bajaj Allianz,5200.0,debit,NEFT,HDFC Savings,Insurance,Bajaj Allianz
+2025-01-22,UPI/Pay/Priya K,749.17,debit,UPI,HDFC Savings,Transfers,Priya K
+2025-01-22,UPI/KFC/Quick Pay,416.24,debit,UPI,SBI Savings,Food & Dining,KFC
+2025-01-22,UPI/Rapido/Pay,97.76,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-22,UPI/Swiggy Instamart/Quick Pay,884.64,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-01-23,UPI/Swiggy Instamart/Food Order,553.57,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-01-23,UPI/Shell/Fuel,1325.28,debit,UPI,SBI Savings,Fuel,Shell
+2025-01-23,UPI/Spencer's/Order,529.5,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-01-23,UPI/UPI Misc 1/Order,83.17,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-01-23,UPI/McDonald's/Quick Pay,476.45,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-01-23,UPI/Reliance Fresh/Purchase,722.58,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-01-23,UPI/Subway/Order,372.1,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-01-23,UPI/Dunzo/Order,208.23,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-01-23,UPI/Haldiram's/Quick Pay,253.63,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-01-23,UPI/Swiggy Instamart/Purchase,587.71,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-01-23,UPI/Starbucks/Pay,329.06,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-01-23,UPI/Cafe Coffee Day/Quick Pay,189.15,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-01-24,UPI/More Supermarket/Grocery,647.29,debit,UPI,HDFC Savings,Groceries,More Supermarket
+2025-01-24,UPI/Ola/Ride,291.34,debit,UPI,HDFC Savings,Travel,Ola
+2025-01-24,UPI/Big Basket/Pay,707.15,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-01-24,UPI/Shell/Quick Pay,1516.58,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-01-24,UPI/KFC/Quick Pay,229.86,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-01-24,UPI/Rapido/Quick Pay,227.04,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-24,UPI/Subway/Quick Pay,292.24,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-01-24,UPI/Subway/Purchase,292.55,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-01-25,UPI/Big Basket/Grocery,1899.71,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-01-25,Flipkart/Online Purchase,2780.24,debit,UPI,HDFC Savings,Shopping,Flipkart
+2025-01-25,UPI/Haldiram's/Order,216.16,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-01-25,UPI/UPI Misc 3/Order,95.42,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-01-25,UPI/Indian Oil/Quick Pay,2937.93,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-01-25,UPI/Ola/Pay,261.42,debit,UPI,SBI Savings,Travel,Ola
+2025-01-25,UPI/UPI Misc 1/Quick Pay,273.82,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-01-25,UPI/Ola/Pay,195.19,debit,UPI,SBI Savings,Travel,Ola
+2025-01-26,Subscription/Spotify,119.0,debit,Credit Card,HDFC Credit Card,Entertainment,Spotify
+2025-01-26,UPI/DMart/Purchase,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-01-26,UPI/Subway/Quick Pay,79.9,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-01-26,UPI/Swiggy Instamart/Purchase,811.35,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-01-26,UPI/Uber/Pay,80.1,debit,UPI,SBI Savings,Travel,Uber
+2025-01-27,UPI/Spencer's/Quick Pay,562.85,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-01-27,UPI/Rapido/Pay,163.78,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-27,UPI/Namma Yatri/Quick Pay,111.95,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-01-27,UPI/Reliance Fresh/Order,747.27,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-01-27,UPI/UPI Misc 4/Pay,264.6,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-01-27,UPI/Ola/Quick Pay,307.62,debit,UPI,SBI Savings,Travel,Ola
+2025-01-27,UPI/Namma Yatri/Purchase,160.58,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-28,UPI/Zomato/Quick Bite,56.06,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-01-28,UPI/Rapido/Ride,91.55,debit,UPI,HDFC Savings,Travel,Rapido
+2025-01-28,Bill/BESCOM,1779.22,debit,UPI,SBI Savings,Utilities,BESCOM
+2025-01-28,UPI/Pay/Vikram M,856.58,debit,UPI,HDFC Savings,Transfers,Vikram M
+2025-01-28,UPI/DMart/Purchase,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-01-28,UPI/Ola/Quick Pay,324.03,debit,UPI,HDFC Savings,Travel,Ola
+2025-01-28,UPI/Cafe Coffee Day/Order,296.55,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-01-29,UPI/Rapido/Ride,134.67,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-29,UPI/Namma Yatri/Pay,139.5,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-29,UPI/UPI Misc 1/Order,73.26,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-01-29,UPI/Haldiram's/Pay,394.95,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-01-30,UPI/Received/Ankit J,1349.88,credit,UPI,SBI Savings,Transfers,Ankit J
+2025-01-30,UPI/Namma Yatri/Pay,278.35,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-30,UPI/Haldiram's/Pay,164.82,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-01-30,UPI/Haldiram's/Pay,45.44,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-01-30,UPI/Swiggy/Purchase,424.43,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-01-31,Bill/Airtel Mobile,552.72,debit,UPI,SBI Savings,Utilities,Airtel Mobile
+2025-01-31,UPI/Rapido/Quick Pay,128.03,debit,UPI,SBI Savings,Travel,Rapido
+2025-01-31,UPI/Namma Yatri/Order,132.76,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-01-31,UPI/Zomato/Order,125.06,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-01-31,UPI/Indian Oil/Order,2086.52,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-01-31,UPI/Starbucks/Quick Pay,422.54,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-01-31,UPI/Spencer's/Quick Pay,384.03,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-02-01,Salary Credit - TechCorp Solutions Pvt Ltd,200000.0,credit,NEFT,HDFC Savings,Salary,TechCorp Solutions
+2025-02-01,Bill/Piped Gas (IGL),597.82,debit,UPI,SBI Savings,Utilities,Piped Gas (IGL)
+2025-02-01,UPI/Pay/Vikram M,313.04,debit,UPI,HDFC Savings,Transfers,Vikram M
+2025-02-01,UPI/Namma Yatri/Quick Pay,291.68,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-02-01,UPI/Namma Yatri/Order,285.54,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-02-01,UPI/Namma Yatri/Order,91.51,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-02-01,UPI/BPCL/Purchase,1016.62,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-02-01,UPI/McDonald's/Order,170.22,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-02-01,UPI/Namma Yatri/Pay,193.24,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-02-01,UPI/UPI Misc 2/Order,108.85,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-02-02,Rent Payment - Prestige Residency,22000.0,debit,NEFT,HDFC Savings,Rent,Prestige Residency
+2025-02-02,Tata Cliq/Online Purchase,3052.14,debit,Credit Card,HDFC Credit Card,Shopping,Tata Cliq
+2025-02-02,UPI/KFC/Order,62.25,debit,UPI,SBI Savings,Food & Dining,KFC
+2025-02-02,UPI/Starbucks/Purchase,173.32,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-02-02,UPI/Blinkit/Quick Pay,387.22,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-02-02,UPI/Zomato/Pay,386.13,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-02-02,UPI/Ola/Purchase,469.65,debit,UPI,HDFC Savings,Travel,Ola
+2025-02-02,UPI/Rapido/Order,185.24,debit,UPI,HDFC Savings,Travel,Rapido
+2025-02-02,UPI/Uber/Purchase,238.72,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-03,UPI/Dunzo/Quick Bite,101.18,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-02-03,UPI/DMart/Quick Pay,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-02-03,UPI/Subway/Pay,308.39,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-02-03,UPI/UPI Misc 1/Pay,114.47,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-02-03,UPI/Rapido/Purchase,227.61,debit,UPI,HDFC Savings,Travel,Rapido
+2025-02-03,UPI/KFC/Purchase,383.86,debit,UPI,SBI Savings,Food & Dining,KFC
+2025-02-03,UPI/UPI Misc 0/Order,179.92,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 0
+2025-02-04,Bill/Jio Broadband,901.45,debit,UPI,SBI Savings,Utilities,Jio Broadband
+2025-02-04,ATM Withdrawal - HDFC Bank,8344.77,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-02-04,UPI/Received/Sneha R,638.17,credit,UPI,SBI Savings,Transfers,Sneha R
+2025-02-04,UPI/BPCL/Pay,967.99,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-02-04,UPI/HP Petrol Pump/Order,821.17,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-02-04,UPI/McDonald's/Pay,146.56,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-02-05,Home Loan EMI - HDFC Bank HL2023,18450.0,debit,EMI,HDFC Savings,EMI,HDFC Bank
+2025-02-05,UPI/Swiggy/Quick Bite,139.76,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-02-05,Tata Cliq/Online Purchase,4126.03,debit,UPI,SBI Savings,Shopping,Tata Cliq
+2025-02-05,UPI/Ola/Ride,501.79,debit,UPI,SBI Savings,Travel,Ola
+2025-02-05,UPI/Pay/Rahul S,278.24,debit,UPI,HDFC Savings,Transfers,Rahul S
+2025-02-05,UPI/EasyPark/Parking Fee,39.26,debit,UPI,HDFC Savings,Miscellaneous,EasyPark
+2025-02-05,UPI/UPI Misc 0/Purchase,220.03,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-02-05,UPI/Cafe Coffee Day/Purchase,119.92,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-02-05,UPI/Namma Yatri/Pay,106.93,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-02-05,UPI/Ola/Purchase,461.68,debit,UPI,HDFC Savings,Travel,Ola
+2025-02-05,UPI/UPI Misc 2/Quick Pay,192.35,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-02-05,UPI/Starbucks/Pay,439.2,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-02-05,UPI/Uber/Purchase,458.83,debit,UPI,SBI Savings,Travel,Uber
+2025-02-05,UPI/Swiggy/Order,371.11,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-02-05,UPI/Rapido/Quick Pay,67.24,debit,UPI,HDFC Savings,Travel,Rapido
+2025-02-05,UPI/Namma Yatri/Order,153.36,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-02-05,UPI/UPI Misc 4/Purchase,160.93,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-02-06,UPI/DMart/Grocery,2788.72,debit,UPI,SBI Savings,Groceries,DMart
+2025-02-06,UPI/Big Basket/Grocery,2468.44,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-02-06,UPI/Uber/Purchase,375.32,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-06,UPI/BPCL/Quick Pay,3083.15,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-02-06,UPI/UPI Misc 3/Purchase,290.17,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-02-06,UPI/Reliance Fresh/Pay,419.85,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-02-06,UPI/Uber/Order,228.66,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-06,UPI/Rapido/Quick Pay,125.18,debit,UPI,HDFC Savings,Travel,Rapido
+2025-02-06,UPI/HP Petrol Pump/Order,1519.45,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-02-06,UPI/Swiggy/Purchase,252.14,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-02-07,SIP - Axis Bluechip Fund,3000.0,debit,SIP,HDFC Savings,Investments,Axis Bluechip Fund
+2025-02-07,SIP - Mirae Asset ELSS,2000.0,debit,SIP,HDFC Savings,Investments,Mirae Asset ELSS
+2025-02-07,SIP - Parag Parikh Flexi,5000.0,debit,SIP,HDFC Savings,Investments,Parag Parikh Flexi Cap
+2025-02-07,UPI/McDonald's/Food Order,381.05,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-02-07,UPI/Reliance Fresh/Grocery,1869.86,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-02-07,Subscription/Amazon Prime,179.0,debit,Credit Card,HDFC Credit Card,Entertainment,Amazon Prime
+2025-02-07,UPI/UPI Misc 1/Purchase,283.44,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 1
+2025-02-07,UPI/HP Petrol Pump/Pay,594.71,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-02-07,UPI/UPI Misc 3/Order,65.89,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 3
+2025-02-07,UPI/UPI Misc 2/Purchase,39.93,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-02-07,UPI/Ola/Purchase,65.33,debit,UPI,HDFC Savings,Travel,Ola
+2025-02-07,UPI/Uber/Order,614.67,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-07,UPI/Subway/Order,66.25,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-02-07,UPI/Namma Yatri/Purchase,173.08,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-02-08,UPI/Uber/Ride,147.52,debit,UPI,SBI Savings,Travel,Uber
+2025-02-08,UPI/BMTC/Bus Ticket,18.69,debit,UPI,HDFC Savings,Travel,BMTC
+2025-02-08,UPI/UPI Misc 0/Pay,135.63,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-02-08,UPI/BPCL/Purchase,2232.42,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-02-08,UPI/Rapido/Pay,169.31,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-08,UPI/Subway/Pay,442.18,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-02-09,UPI/Domino's/Food Order,279.78,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-02-09,UPI/Swiggy Instamart/Food Order,383.78,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-02-09,UPI/Dunzo/Quick Bite,194.4,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-02-09,UPI/Ola/Ride,103.67,debit,UPI,HDFC Savings,Travel,Ola
+2025-02-09,UPI/Uber/Ride,616.41,debit,UPI,SBI Savings,Travel,Uber
+2025-02-09,UPI/BMTC/Bus Ticket,43.02,debit,UPI,HDFC Savings,Travel,BMTC
+2025-02-09,UPI/Received/Rahul S,941.91,credit,UPI,SBI Savings,Transfers,Rahul S
+2025-02-09,UPI/Reliance Fresh/Purchase,599.72,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-02-09,UPI/BPCL/Purchase,780.02,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-02-09,UPI/Spencer's/Purchase,757.93,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-02-09,UPI/Uber/Pay,393.26,debit,UPI,SBI Savings,Travel,Uber
+2025-02-09,UPI/Rapido/Pay,112.9,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-09,UPI/Namma Yatri/Order,84.44,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-02-10,Personal Loan EMI - ICICI Bank PL2024,6200.0,debit,EMI,HDFC Savings,EMI,ICICI Bank
+2025-02-10,UPI/BMTC/Bus Ticket,53.01,debit,UPI,SBI Savings,Travel,BMTC
+2025-02-10,UPI/BMTC/Bus Ticket,38.43,debit,UPI,HDFC Savings,Travel,BMTC
+2025-02-10,UPI/Domino's/Purchase,150.6,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-02-10,UPI/Rapido/Quick Pay,132.81,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-10,UPI/Uber/Quick Pay,256.43,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-10,UPI/KFC/Quick Pay,96.56,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-02-10,UPI/Uber/Purchase,123.52,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-11,UPI/Haldiram's/Food Order,360.71,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-02-11,UPI/McDonald's/Quick Bite,57.74,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-02-11,UPI/Pay/Sneha R,278.24,debit,UPI,SBI Savings,Transfers,Sneha R
+2025-02-11,UPI/Pay/Pooja N,1176.41,debit,UPI,HDFC Savings,Transfers,Pooja N
+2025-02-11,UPI/Rapido/Pay,73.61,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-11,UPI/Domino's/Pay,116.65,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-02-11,UPI/McDonald's/Purchase,297.89,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-02-11,UPI/Namma Yatri/Purchase,96.99,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-02-11,UPI/UPI Misc 1/Pay,255.03,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 1
+2025-02-11,UPI/Cafe Coffee Day/Quick Pay,154.61,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-02-11,UPI/Namma Yatri/Purchase,96.6,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-02-12,Bill/BESCOM,1774.68,debit,UPI,SBI Savings,Utilities,BESCOM
+2025-02-12,Apollo Pharmacy/Medicines,850.0,debit,UPI,SBI Savings,Healthcare,Apollo Pharmacy
+2025-02-12,UPI/BPCL/Order,944.97,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-02-12,UPI/Big Basket/Purchase,626.14,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-02-12,UPI/DMart/Order,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-02-13,UPI/Ola/Pay,497.13,debit,UPI,SBI Savings,Travel,Ola
+2025-02-13,UPI/Rapido/Quick Pay,59.4,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-13,UPI/Swiggy/Quick Pay,458.68,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-02-13,UPI/UPI Misc 2/Quick Pay,249.79,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-02-14,UPI/Nature's Basket/Grocery,2124.25,debit,UPI,HDFC Savings,Groceries,Nature's Basket
+2025-02-14,Practo/Doctor Consultation,400.0,debit,UPI,HDFC Savings,Healthcare,Practo
+2025-02-14,UPI/UPI Misc 3/Purchase,149.64,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-02-14,UPI/Namma Yatri/Pay,112.94,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-02-14,UPI/Ola/Order,240.68,debit,UPI,HDFC Savings,Travel,Ola
+2025-02-14,UPI/Uber/Order,88.27,debit,UPI,SBI Savings,Travel,Uber
+2025-02-14,UPI/Namma Yatri/Quick Pay,93.12,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-02-14,UPI/Reliance Fresh/Pay,479.99,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-02-15,UPI/Swiggy Instamart/Food Order,527.67,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-02-15,UPI/Zomato/Quick Bite,40.52,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-02-15,Ajio/Online Purchase,943.56,debit,UPI,SBI Savings,Shopping,Ajio
+2025-02-15,Credit Card Bill Payment - HDFC CC,13175.85,debit,NEFT,HDFC Savings,Transfers,HDFC Credit Card
+2025-02-15,UPI/KFC/Quick Pay,248.58,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-02-15,UPI/Rapido/Order,157.18,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-15,UPI/UPI Misc 4/Order,250.7,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-02-15,UPI/Indian Oil/Order,2771.23,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-02-15,UPI/Starbucks/Quick Pay,51.84,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-02-15,UPI/Namma Yatri/Quick Pay,140.73,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-02-15,UPI/Domino's/Pay,67.29,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-02-16,UPI/Namma Yatri/Ride,165.71,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-02-16,UPI/Rapido/Order,222.52,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-16,UPI/Big Basket/Quick Pay,776.68,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-02-16,UPI/Zomato/Order,74.15,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-02-16,UPI/Uber/Order,185.13,debit,UPI,SBI Savings,Travel,Uber
+2025-02-16,UPI/Dunzo/Pay,104.74,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-02-16,UPI/Uber/Quick Pay,174.39,debit,UPI,SBI Savings,Travel,Uber
+2025-02-17,UPI/Zomato/Quick Bite,118.47,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-02-17,ATM Withdrawal - HDFC Bank,6843.41,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-02-17,UPI/Pay/Pooja N,361.94,debit,UPI,SBI Savings,Transfers,Pooja N
+2025-02-17,UPI/Uber/Pay,126.27,debit,UPI,SBI Savings,Travel,Uber
+2025-02-17,UPI/Domino's/Quick Pay,289.51,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-02-17,UPI/Swiggy/Quick Pay,609.28,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-02-17,UPI/UPI Misc 4/Order,146.06,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-02-17,UPI/Haldiram's/Quick Pay,176.29,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-02-17,UPI/Rapido/Purchase,200.32,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-17,UPI/Swiggy Instamart/Order,418.81,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-02-18,Subscription/Spotify,119.0,debit,Credit Card,HDFC Credit Card,Entertainment,Spotify
+2025-02-18,UPI/GiveIndia/Donation,1752.68,debit,UPI,HDFC Savings,Miscellaneous,GiveIndia
+2025-02-18,UPI/UPI Misc 4/Pay,78.08,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-02-18,UPI/McDonald's/Pay,225.03,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-02-18,UPI/Domino's/Pay,619.48,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-02-18,UPI/Swiggy/Pay,263.3,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-02-18,UPI/BPCL/Order,1528.19,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-02-19,UPI/Blinkit/Quick Bite,103.5,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-02-19,UPI/Uber/Ride,438.78,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-19,UPI/Shell/Fuel,1640.98,debit,UPI,SBI Savings,Fuel,Shell
+2025-02-19,Bill/Airtel Mobile,413.31,debit,UPI,SBI Savings,Utilities,Airtel Mobile
+2025-02-19,Subscription/YouTube Premium,189.0,debit,Credit Card,HDFC Credit Card,Entertainment,YouTube Premium
+2025-02-19,UPI/UPI Misc 2/Quick Pay,141.19,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-02-19,UPI/Spencer's/Quick Pay,388.79,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-02-19,UPI/Rapido/Purchase,180.92,debit,UPI,HDFC Savings,Travel,Rapido
+2025-02-19,UPI/Ola/Order,393.89,debit,UPI,HDFC Savings,Travel,Ola
+2025-02-19,UPI/UPI Misc 1/Purchase,48.71,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 1
+2025-02-19,UPI/Spencer's/Pay,543.73,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-02-19,UPI/Rapido/Purchase,154.62,debit,UPI,HDFC Savings,Travel,Rapido
+2025-02-19,UPI/Ola/Quick Pay,239.12,debit,UPI,HDFC Savings,Travel,Ola
+2025-02-20,UPI/BMTC/Bus Ticket,58.01,debit,UPI,HDFC Savings,Travel,BMTC
+2025-02-20,BWSSB/Water Bill,316.41,debit,UPI,HDFC Savings,Utilities,BWSSB
+2025-02-20,UPI/Received/Sneha R,939.88,credit,UPI,SBI Savings,Transfers,Sneha R
+2025-02-20,Freelance/Tax Filing - Client A,8000.0,credit,NEFT,HDFC Savings,Business Income,Freelance Client
+2025-02-20,UPI/Indian Oil/Purchase,2210.22,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-02-20,UPI/UPI Misc 2/Pay,171.35,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-02-20,UPI/Domino's/Order,607.58,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-02-20,UPI/Rapido/Purchase,115.78,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-20,UPI/BPCL/Order,1084.24,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-02-20,UPI/Ola/Purchase,441.06,debit,UPI,SBI Savings,Travel,Ola
+2025-02-20,UPI/Zomato/Order,148.07,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-02-21,UPI/Starbucks/Food Order,309.9,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-02-21,UPI/Blinkit/Food Order,524.58,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-02-21,UPI/Pay/Pooja N,1459.12,debit,UPI,HDFC Savings,Transfers,Pooja N
+2025-02-21,UPI/Namma Yatri/Purchase,198.58,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-02-21,UPI/Uber/Order,323.85,debit,UPI,SBI Savings,Travel,Uber
+2025-02-21,UPI/Uber/Quick Pay,611.45,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-21,UPI/UPI Misc 2/Purchase,185.22,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-02-21,UPI/UPI Misc 4/Quick Pay,84.92,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-02-22,UPI/Pay/Ankit J,631.14,debit,UPI,HDFC Savings,Transfers,Ankit J
+2025-02-22,Mobile Recharge/Jio,326.56,debit,UPI,HDFC Savings,Utilities,Jio
+2025-02-22,UPI/UPI Misc 3/Purchase,230.51,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-02-22,UPI/HP Petrol Pump/Pay,628.03,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-02-22,UPI/Swiggy Instamart/Pay,730.38,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-02-22,UPI/Rapido/Purchase,92.17,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-23,UPI/Rapido/Ride,238.26,debit,UPI,SBI Savings,Travel,Rapido
+2025-02-23,UPI/Spencer's/Order,358.12,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-02-23,UPI/McDonald's/Pay,389.29,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-02-23,UPI/KFC/Pay,31.16,debit,UPI,SBI Savings,Food & Dining,KFC
+2025-02-23,UPI/Big Basket/Quick Pay,657.64,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-02-24,UPI/McDonald's/Quick Bite,58.21,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-02-24,Udemy/Online Course,2435.39,debit,Credit Card,HDFC Credit Card,Education,Udemy
+2025-02-24,UPI/Spencer's/Order,322.86,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-02-24,UPI/HP Petrol Pump/Pay,1289.7,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-02-24,UPI/Shell/Order,3326.26,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-02-24,UPI/Spencer's/Quick Pay,361.38,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-02-24,UPI/BPCL/Pay,1469.51,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-02-24,UPI/BPCL/Pay,2679.53,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-02-24,UPI/Subway/Quick Pay,67.4,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-02-24,UPI/Zomato/Purchase,47.82,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-02-25,Meesho/Online Purchase,1358.75,debit,Credit Card,HDFC Credit Card,Shopping,Meesho
+2025-02-25,Flipkart/Online Purchase,4754.76,debit,Credit Card,HDFC Credit Card,Shopping,Flipkart
+2025-02-25,UPI/Ola/Ride,351.74,debit,UPI,SBI Savings,Travel,Ola
+2025-02-25,UPI/BMTC/Bus Ticket,20.39,debit,UPI,HDFC Savings,Travel,BMTC
+2025-02-25,Subscription/Netflix,649.0,debit,Credit Card,HDFC Credit Card,Entertainment,Netflix
+2025-02-25,UPI/Received/Priya K,1073.46,credit,UPI,SBI Savings,Transfers,Priya K
+2025-02-25,UPI/UPI Misc 2/Order,186.65,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-02-25,UPI/Dunzo/Pay,439.89,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-02-25,UPI/UPI Misc 1/Order,212.26,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 1
+2025-02-26,UPI/Swiggy/Order,554.46,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-02-26,UPI/DMart/Quick Pay,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-02-26,UPI/KFC/Purchase,291.58,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-02-26,UPI/Swiggy Instamart/Quick Pay,678.81,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-02-26,UPI/Shell/Purchase,3383.43,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-02-27,UPI/Haldiram's/Food Order,241.21,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-02-27,UPI/Blinkit/Food Order,267.66,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-02-27,Nykaa/Online Purchase,1837.0,debit,Credit Card,HDFC Credit Card,Shopping,Nykaa
+2025-02-27,UPI/Uber/Ride,117.25,debit,UPI,SBI Savings,Travel,Uber
+2025-02-27,UPI/Big Basket/Pay,550.37,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-02-27,UPI/UPI Misc 3/Purchase,239.87,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 3
+2025-02-27,UPI/Uber/Quick Pay,177.37,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-27,UPI/Domino's/Purchase,108.49,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-02-28,UPI/Spencer's/Grocery,358.09,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-02-28,UPI/Uber/Ride,86.99,debit,UPI,SBI Savings,Travel,Uber
+2025-02-28,UPI/Shell/Fuel,2001.3,debit,UPI,HDFC Savings,Fuel,Shell
+2025-02-28,UPI/Uber/Order,366.24,debit,UPI,HDFC Savings,Travel,Uber
+2025-02-28,UPI/Rapido/Pay,190.78,debit,UPI,HDFC Savings,Travel,Rapido
+2025-02-28,UPI/Dunzo/Pay,468.64,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-02-28,UPI/Namma Yatri/Order,220.13,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-01,Salary Credit - TechCorp Solutions Pvt Ltd,200000.0,credit,NEFT,HDFC Savings,Salary,TechCorp Solutions
+2025-03-01,Rent Payment - Prestige Residency,22000.0,debit,NEFT,HDFC Savings,Rent,Prestige Residency
+2025-03-01,UPI/Reliance Fresh/Grocery,1588.06,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-03-01,UPI/Pay/Sneha R,716.64,debit,UPI,HDFC Savings,Transfers,Sneha R
+2025-03-01,UPI/Dunzo/Purchase,391.1,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-03-01,UPI/Uber/Purchase,152.59,debit,UPI,SBI Savings,Travel,Uber
+2025-03-01,UPI/DMart/Purchase,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-03-02,UPI/Blinkit/Food Order,382.48,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-03-02,UPI/Rapido/Ride,88.61,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-02,UPI/Uber/Ride,174.58,debit,UPI,SBI Savings,Travel,Uber
+2025-03-02,Bill/Jio Broadband,982.88,debit,UPI,SBI Savings,Utilities,Jio Broadband
+2025-03-02,UPI/Pay/Ankit J,61.15,debit,UPI,SBI Savings,Transfers,Ankit J
+2025-03-02,UPI/Ola/Quick Pay,154.25,debit,UPI,HDFC Savings,Travel,Ola
+2025-03-02,UPI/KFC/Order,72.3,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-03-02,UPI/Dunzo/Purchase,141.44,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-03-03,UPI/Zomato/Quick Bite,183.96,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-03-03,Meesho/Online Purchase,738.74,debit,UPI,HDFC Savings,Shopping,Meesho
+2025-03-03,UPI/Namma Yatri/Ride,224.97,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-03,UPI/Namma Yatri/Ride,203.53,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-03,UPI/Rapido/Pay,136.99,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-03,UPI/Uber/Pay,569.18,debit,UPI,SBI Savings,Travel,Uber
+2025-03-03,UPI/Rapido/Order,169.74,debit,UPI,HDFC Savings,Travel,Rapido
+2025-03-03,UPI/Ola/Quick Pay,516.24,debit,UPI,SBI Savings,Travel,Ola
+2025-03-03,UPI/KFC/Quick Pay,270.49,debit,UPI,SBI Savings,Food & Dining,KFC
+2025-03-04,UPI/DMart/Grocery,3168.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-03-04,UPI/Zomato/Quick Pay,101.81,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-03-04,UPI/Ola/Quick Pay,43.79,debit,UPI,SBI Savings,Travel,Ola
+2025-03-04,UPI/Shell/Order,2919.71,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-03-04,UPI/Rapido/Order,52.23,debit,UPI,HDFC Savings,Travel,Rapido
+2025-03-04,UPI/Cafe Coffee Day/Purchase,120.19,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-03-04,UPI/Ola/Order,350.23,debit,UPI,SBI Savings,Travel,Ola
+2025-03-05,Home Loan EMI - HDFC Bank HL2023,18450.0,debit,EMI,HDFC Savings,EMI,HDFC Bank
+2025-03-05,Nykaa/Online Purchase,654.71,debit,UPI,HDFC Savings,Shopping,Nykaa
+2025-03-05,Dr. Lal PathLabs/Blood Test,780.0,debit,UPI,HDFC Savings,Healthcare,Dr. Lal PathLabs
+2025-03-05,UPI/UPI Misc 2/Pay,72.77,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-03-05,UPI/Blinkit/Pay,153.22,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-03-05,UPI/Swiggy/Quick Pay,438.34,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-03-05,UPI/Namma Yatri/Pay,104.13,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-05,UPI/Subway/Pay,182.22,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-03-05,UPI/Uber/Pay,172.82,debit,UPI,SBI Savings,Travel,Uber
+2025-03-05,UPI/Namma Yatri/Pay,48.69,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-05,UPI/Ola/Pay,535.64,debit,UPI,SBI Savings,Travel,Ola
+2025-03-06,UPI/Cafe Coffee Day/Food Order,180.96,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-03-06,UPI/McDonald's/Quick Pay,271.95,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-03-06,UPI/Ola/Purchase,48.92,debit,UPI,SBI Savings,Travel,Ola
+2025-03-06,UPI/Zomato/Quick Pay,57.22,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-03-06,UPI/Namma Yatri/Order,148.47,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-06,UPI/Ola/Quick Pay,175.57,debit,UPI,HDFC Savings,Travel,Ola
+2025-03-07,SIP - Axis Bluechip Fund,3000.0,debit,SIP,HDFC Savings,Investments,Axis Bluechip Fund
+2025-03-07,SIP - Mirae Asset ELSS,2000.0,debit,SIP,HDFC Savings,Investments,Mirae Asset ELSS
+2025-03-07,SIP - Parag Parikh Flexi,5000.0,debit,SIP,HDFC Savings,Investments,Parag Parikh Flexi Cap
+2025-03-07,UPI/Zomato/Quick Pay,135.92,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-03-07,UPI/Uber/Order,148.4,debit,UPI,SBI Savings,Travel,Uber
+2025-03-07,UPI/Subway/Purchase,87.37,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-03-07,UPI/Rapido/Quick Pay,77.92,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-07,UPI/Rapido/Purchase,109.98,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-07,UPI/Haldiram's/Quick Pay,368.21,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-03-07,UPI/Rapido/Quick Pay,135.76,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-08,UPI/Dunzo/Quick Bite,41.14,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-03-08,Subscription/Spotify,119.0,debit,Credit Card,HDFC Credit Card,Entertainment,Spotify
+2025-03-08,UPI/Received/Rahul S,927.79,credit,UPI,SBI Savings,Transfers,Rahul S
+2025-03-08,UPI/UPI Misc 2/Pay,111.95,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-03-09,UPI/Big Basket/Grocery,2660.88,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-03-09,UPI/Big Basket/Quick Pay,713.13,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-03-09,UPI/Big Basket/Quick Pay,651.07,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-03-10,Personal Loan EMI - ICICI Bank PL2024,6200.0,debit,EMI,HDFC Savings,EMI,ICICI Bank
+2025-03-10,UPI/Pay/Pooja N,115.86,debit,UPI,SBI Savings,Transfers,Pooja N
+2025-03-10,UPI/Namma Yatri/Order,150.53,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-10,UPI/Indian Oil/Purchase,1513.6,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-03-10,UPI/HP Petrol Pump/Quick Pay,1573.77,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-03-10,UPI/Ola/Order,583.11,debit,UPI,SBI Savings,Travel,Ola
+2025-03-11,UPI/Starbucks/Food Order,421.01,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-03-11,UPI/Swiggy/Quick Bite,43.34,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-03-11,Myntra/Online Purchase,1458.45,debit,UPI,SBI Savings,Shopping,Myntra
+2025-03-11,Subscription/Amazon Prime,179.0,debit,Credit Card,HDFC Credit Card,Entertainment,Amazon Prime
+2025-03-11,UPI/Pay/Vikram M,223.98,debit,UPI,SBI Savings,Transfers,Vikram M
+2025-03-11,UPI/Uber/Pay,296.27,debit,UPI,SBI Savings,Travel,Uber
+2025-03-11,UPI/UPI Misc 0/Order,87.64,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-03-11,UPI/Cafe Coffee Day/Quick Pay,92.1,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-03-12,UPI/Dunzo/Order,307.69,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-03-12,UPI/Uber/Quick Pay,620.25,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-12,UPI/Uber/Purchase,270.75,debit,UPI,SBI Savings,Travel,Uber
+2025-03-12,UPI/Rapido/Quick Pay,210.2,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-12,UPI/Swiggy Instamart/Quick Pay,89.59,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-03-13,Tata Cliq/Online Purchase,4581.19,debit,Credit Card,HDFC Credit Card,Shopping,Tata Cliq
+2025-03-13,UPI/Pay/Rahul S,1299.56,debit,UPI,HDFC Savings,Transfers,Rahul S
+2025-03-13,UPI/UPI Misc 3/Quick Pay,279.28,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 3
+2025-03-13,UPI/Blinkit/Purchase,335.46,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-03-13,UPI/Uber/Pay,57.81,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-13,UPI/Uber/Quick Pay,187.49,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-13,UPI/Ola/Pay,143.17,debit,UPI,SBI Savings,Travel,Ola
+2025-03-13,UPI/Uber/Order,643.44,debit,UPI,SBI Savings,Travel,Uber
+2025-03-14,Myntra/Online Purchase,685.86,debit,Credit Card,HDFC Credit Card,Shopping,Myntra
+2025-03-14,UPI/Uber/Ride,336.79,debit,UPI,SBI Savings,Travel,Uber
+2025-03-14,UPI/Ola/Ride,139.68,debit,UPI,HDFC Savings,Travel,Ola
+2025-03-14,MakeMyTrip/Flight BLR-GOA,4850.0,debit,Credit Card,HDFC Credit Card,Travel,MakeMyTrip
+2025-03-14,MakeMyTrip/Hotel Goa 3 Nights,9200.0,debit,Credit Card,HDFC Credit Card,Travel,MakeMyTrip
+2025-03-14,UPI/Pay/Pooja N,304.76,debit,UPI,SBI Savings,Transfers,Pooja N
+2025-03-14,UPI/Received/Pooja N,650.08,credit,UPI,SBI Savings,Transfers,Pooja N
+2025-03-14,Advance Tax Payment - Income Tax Dept,8500.0,debit,NEFT,HDFC Savings,Taxes,Income Tax Dept
+2025-03-14,UPI/Ola/Order,130.1,debit,UPI,HDFC Savings,Travel,Ola
+2025-03-14,UPI/Uber/Order,233.89,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-14,UPI/Ola/Purchase,309.77,debit,UPI,SBI Savings,Travel,Ola
+2025-03-14,UPI/Domino's/Purchase,360.99,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-03-14,UPI/KFC/Pay,222.91,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-03-15,UPI/Dunzo/Quick Bite,59.24,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-03-15,Meesho/Online Purchase,299.81,debit,UPI,SBI Savings,Shopping,Meesho
+2025-03-15,UPI/Rapido/Ride,66.11,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-15,Uber/Goa Airport Transfer,450.0,debit,Credit Card,HDFC Credit Card,Travel,Uber
+2025-03-15,Fisherman's Wharf/Dinner,2100.0,debit,Credit Card,HDFC Credit Card,Food & Dining,Fisherman's Wharf
+2025-03-15,ICAI Online/Online Course,2108.35,debit,Credit Card,HDFC Credit Card,Education,ICAI Online
+2025-03-15,Credit Card Bill Payment - HDFC CC,13292.65,debit,NEFT,HDFC Savings,Transfers,HDFC Credit Card
+2025-03-15,UPI/DMart/Purchase,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-03-15,UPI/Namma Yatri/Order,177.05,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-15,UPI/Big Basket/Purchase,736.63,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-03-15,UPI/Zomato/Quick Pay,589.24,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-03-15,UPI/Cafe Coffee Day/Pay,130.98,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-03-15,UPI/McDonald's/Purchase,48.43,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-03-15,UPI/Swiggy Instamart/Quick Pay,149.79,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-03-16,Nykaa/Online Purchase,260.32,debit,UPI,SBI Savings,Shopping,Nykaa
+2025-03-16,UPI/BMTC/Bus Ticket,35.95,debit,UPI,SBI Savings,Travel,BMTC
+2025-03-16,UPI/BMTC/Bus Ticket,27.4,debit,UPI,SBI Savings,Travel,BMTC
+2025-03-16,Calangute/Water Sports,1800.0,debit,Credit Card,HDFC Credit Card,Entertainment,Calangute Sports
+2025-03-16,Bill/Piped Gas (IGL),396.45,debit,UPI,HDFC Savings,Utilities,Piped Gas (IGL)
+2025-03-16,UPI/Rapido/Pay,165.33,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-16,UPI/Namma Yatri/Purchase,271.44,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-16,UPI/Cafe Coffee Day/Order,280.51,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-03-16,UPI/Zomato/Quick Pay,576.88,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-03-17,UPI/Swiggy Instamart/Food Order,847.58,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-03-17,UPI/Haldiram's/Food Order,302.24,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-03-17,UPI/Swiggy/Quick Bite,77.84,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-03-17,Goa Bazaar/Souvenirs,1200.0,debit,Credit Card,HDFC Credit Card,Shopping,Goa Bazaar
+2025-03-17,Uber/Hotel to Airport,520.0,debit,Credit Card,HDFC Credit Card,Travel,Uber
+2025-03-17,UPI/Cafe Coffee Day/Pay,130.0,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-03-17,UPI/Rapido/Quick Pay,89.81,debit,UPI,HDFC Savings,Travel,Rapido
+2025-03-17,UPI/Swiggy Instamart/Pay,706.28,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-03-17,UPI/Uber/Order,294.51,debit,UPI,SBI Savings,Travel,Uber
+2025-03-17,UPI/Uber/Quick Pay,236.42,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-17,UPI/Namma Yatri/Purchase,170.31,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-17,UPI/Zomato/Quick Pay,43.44,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-03-18,UPI/HP Petrol Pump/Pay,2917.33,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-03-18,UPI/Swiggy Instamart/Pay,154.1,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-03-18,UPI/Ola/Pay,43.21,debit,UPI,SBI Savings,Travel,Ola
+2025-03-18,UPI/Namma Yatri/Order,117.26,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-18,UPI/Uber/Pay,179.9,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-18,UPI/Rapido/Pay,190.12,debit,UPI,HDFC Savings,Travel,Rapido
+2025-03-19,UPI/BMTC/Bus Ticket,12.01,debit,UPI,HDFC Savings,Travel,BMTC
+2025-03-19,UPI/Indian Oil/Fuel,3095.2,debit,UPI,HDFC Savings,Fuel,Indian Oil
+2025-03-19,UPI/Pay/Vikram M,672.46,debit,UPI,SBI Savings,Transfers,Vikram M
+2025-03-19,UPI/UPI Misc 2/Purchase,188.5,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-03-19,UPI/Spencer's/Order,482.51,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-03-19,UPI/Rapido/Order,111.14,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-19,UPI/Namma Yatri/Pay,30.88,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-19,UPI/BPCL/Order,1852.19,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-03-19,UPI/Zomato/Order,573.77,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-03-19,UPI/BPCL/Order,3450.86,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-03-19,UPI/Haldiram's/Purchase,180.5,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-03-19,UPI/Namma Yatri/Purchase,153.14,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-19,UPI/Namma Yatri/Purchase,122.01,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-20,UPI/Rapido/Ride,92.58,debit,UPI,HDFC Savings,Travel,Rapido
+2025-03-20,UPI/EasyPark/Parking Fee,75.21,debit,UPI,HDFC Savings,Miscellaneous,EasyPark
+2025-03-20,UPI/Zomato/Quick Pay,598.47,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-03-20,UPI/Namma Yatri/Pay,182.94,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-21,UPI/Big Basket/Grocery,1773.51,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-03-21,UPI/BMTC/Bus Ticket,50.71,debit,UPI,HDFC Savings,Travel,BMTC
+2025-03-21,Bill/BESCOM,1971.01,debit,UPI,SBI Savings,Utilities,BESCOM
+2025-03-21,Bill/Airtel Mobile,421.49,debit,UPI,HDFC Savings,Utilities,Airtel Mobile
+2025-03-21,UPI/Ola/Quick Pay,436.03,debit,UPI,HDFC Savings,Travel,Ola
+2025-03-21,UPI/Ola/Quick Pay,138.63,debit,UPI,HDFC Savings,Travel,Ola
+2025-03-21,UPI/Uber/Quick Pay,165.63,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-22,UPI/Blinkit/Quick Bite,143.33,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-03-22,UPI/UPI Misc 3/Purchase,135.58,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-03-22,UPI/Subway/Pay,165.87,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-03-22,UPI/Rapido/Pay,165.2,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-22,UPI/Uber/Purchase,311.99,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-22,UPI/UPI Misc 2/Purchase,142.41,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-03-23,UPI/Pay/Ankit J,383.66,debit,UPI,SBI Savings,Transfers,Ankit J
+2025-03-23,Mobile Recharge/Jio,439.49,debit,UPI,HDFC Savings,Utilities,Jio
+2025-03-23,UPI/UPI Misc 1/Order,69.39,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-03-23,UPI/Zomato/Order,137.05,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-03-23,UPI/Starbucks/Pay,148.31,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-03-23,UPI/BPCL/Pay,2499.97,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-03-24,UPI/Zomato/Food Order,467.29,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-03-24,UPI/Subway/Purchase,177.84,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-03-24,UPI/Indian Oil/Order,2348.33,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-03-24,UPI/Domino's/Pay,347.85,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-03-24,UPI/UPI Misc 4/Quick Pay,146.46,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-03-24,UPI/Namma Yatri/Pay,265.7,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-24,UPI/HP Petrol Pump/Order,1154.41,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-03-25,UPI/McDonald's/Food Order,228.46,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-03-25,UPI/Cafe Coffee Day/Food Order,148.92,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-03-25,Myntra/Online Purchase,1669.35,debit,Credit Card,HDFC Credit Card,Shopping,Myntra
+2025-03-25,Subscription/YouTube Premium,189.0,debit,Credit Card,HDFC Credit Card,Entertainment,YouTube Premium
+2025-03-25,UPI/Pay/Priya K,248.99,debit,UPI,SBI Savings,Transfers,Priya K
+2025-03-25,UPI/Namma Yatri/Quick Pay,252.68,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-25,UPI/Indian Oil/Pay,1817.21,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-03-25,UPI/UPI Misc 1/Quick Pay,255.43,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-03-25,UPI/Uber/Purchase,637.21,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-26,UPI/Uber/Order,531.48,debit,UPI,SBI Savings,Travel,Uber
+2025-03-26,UPI/DMart/Purchase,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-03-26,UPI/Reliance Fresh/Quick Pay,626.46,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-03-26,UPI/Shell/Quick Pay,1265.51,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-03-26,UPI/Ola/Purchase,139.99,debit,UPI,SBI Savings,Travel,Ola
+2025-03-26,UPI/Namma Yatri/Purchase,294.07,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-27,UPI/Big Basket/Grocery,2488.36,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-03-27,UPI/Indian Oil/Fuel,2474.69,debit,UPI,SBI Savings,Fuel,Indian Oil
+2025-03-27,UPI/Shell/Fuel,3222.05,debit,UPI,SBI Savings,Fuel,Shell
+2025-03-27,UPI/Swiggy/Order,104.41,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-03-27,UPI/UPI Misc 3/Purchase,84.55,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-03-27,UPI/Rapido/Quick Pay,132.47,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-27,UPI/Spencer's/Quick Pay,710.13,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-03-27,UPI/Ola/Order,578.03,debit,UPI,SBI Savings,Travel,Ola
+2025-03-27,UPI/UPI Misc 3/Order,139.49,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 3
+2025-03-27,UPI/Namma Yatri/Order,61.54,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-28,Subscription/Netflix,649.0,debit,Credit Card,HDFC Credit Card,Entertainment,Netflix
+2025-03-28,ATM Withdrawal - HDFC Bank,7237.7,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-03-28,Freelance/GST Return - Client B,5500.0,credit,NEFT,HDFC Savings,Business Income,Freelance Client
+2025-03-28,Mutual Fund Dividend - Axis,451.2,credit,Bank Credit,HDFC Savings,Investments,Axis Mutual Fund
+2025-03-28,UPI/UPI Misc 1/Purchase,180.54,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 1
+2025-03-28,UPI/Ola/Quick Pay,76.43,debit,UPI,SBI Savings,Travel,Ola
+2025-03-28,UPI/Uber/Purchase,341.32,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-28,UPI/Uber/Pay,111.41,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-28,UPI/Swiggy Instamart/Pay,850.33,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-03-28,UPI/Namma Yatri/Purchase,188.14,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-28,UPI/Namma Yatri/Order,287.39,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-28,UPI/UPI Misc 3/Pay,278.24,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 3
+2025-03-29,UPI/McDonald's/Food Order,475.6,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-03-29,UPI/Rapido/Order,112.77,debit,UPI,HDFC Savings,Travel,Rapido
+2025-03-29,UPI/Namma Yatri/Purchase,274.53,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-29,UPI/Haldiram's/Pay,75.62,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-03-29,UPI/HP Petrol Pump/Purchase,2538.74,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-03-29,UPI/BPCL/Quick Pay,1960.58,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-03-29,UPI/Spencer's/Quick Pay,687.37,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-03-29,UPI/Ola/Order,546.24,debit,UPI,SBI Savings,Travel,Ola
+2025-03-30,UPI/Blinkit/Food Order,546.61,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-03-30,UPI/Ola/Ride,218.13,debit,UPI,HDFC Savings,Travel,Ola
+2025-03-30,UPI/BMTC/Bus Ticket,23.91,debit,UPI,SBI Savings,Travel,BMTC
+2025-03-30,UPI/Received/Pooja N,787.52,credit,UPI,SBI Savings,Transfers,Pooja N
+2025-03-30,Interest Credit - HDFC Savings,315.78,credit,Bank Credit,HDFC Savings,Business Income,HDFC Bank
+2025-03-30,UPI/Spencer's/Purchase,608.68,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-03-30,UPI/Uber/Order,225.08,debit,UPI,HDFC Savings,Travel,Uber
+2025-03-30,UPI/Namma Yatri/Pay,184.26,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-03-30,UPI/Blinkit/Purchase,80.38,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-03-30,UPI/Indian Oil/Order,2724.29,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-03-30,UPI/Shell/Quick Pay,1966.16,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-03-31,UPI/Namma Yatri/Ride,125.34,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-03-31,UPI/Ola/Ride,430.64,debit,UPI,HDFC Savings,Travel,Ola
+2025-03-31,UPI/Received/Rahul S,717.06,credit,UPI,SBI Savings,Transfers,Rahul S
+2025-03-31,UPI/DMart/Order,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-03-31,UPI/HP Petrol Pump/Quick Pay,841.5,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-03-31,UPI/Rapido/Quick Pay,146.09,debit,UPI,SBI Savings,Travel,Rapido
+2025-03-31,UPI/UPI Misc 3/Quick Pay,41.14,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-04-01,Subscription/Amazon Prime,179.0,debit,Credit Card,HDFC Credit Card,Entertainment,Amazon Prime
+2025-04-01,UPI/Big Basket/Pay,574.88,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-04-01,UPI/Subway/Pay,430.03,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-04-01,UPI/Dunzo/Purchase,123.44,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-04-01,UPI/Spencer's/Quick Pay,458.51,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-02,UPI/Big Basket/Grocery,2271.96,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-04-02,UPI/Namma Yatri/Ride,105.02,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-02,UPI/Received/Ankit J,768.69,credit,UPI,HDFC Savings,Transfers,Ankit J
+2025-04-02,UPI/Dunzo/Purchase,417.35,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-04-02,UPI/Indian Oil/Order,2106.91,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-04-02,UPI/DMart/Order,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-04-02,UPI/KFC/Purchase,258.55,debit,UPI,SBI Savings,Food & Dining,KFC
+2025-04-02,UPI/Spencer's/Quick Pay,727.89,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-03,Salary Credit - TechCorp Solutions Pvt Ltd,200000.0,credit,NEFT,HDFC Savings,Salary,TechCorp Solutions
+2025-04-03,UPI/UPI Misc 3/Pay,127.14,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-04-03,UPI/Haldiram's/Purchase,115.54,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-04-03,UPI/Uber/Pay,171.44,debit,UPI,SBI Savings,Travel,Uber
+2025-04-03,UPI/UPI Misc 1/Quick Pay,152.35,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-04-03,UPI/Rapido/Pay,37.14,debit,UPI,SBI Savings,Travel,Rapido
+2025-04-04,UPI/Blinkit/Food Order,303.31,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-04-04,UPI/Rapido/Ride,243.74,debit,UPI,SBI Savings,Travel,Rapido
+2025-04-04,UPI/BMTC/Bus Ticket,42.39,debit,UPI,HDFC Savings,Travel,BMTC
+2025-04-04,UPI/Pay/Priya K,262.34,debit,UPI,HDFC Savings,Transfers,Priya K
+2025-04-04,UPI/Ola/Order,46.31,debit,UPI,HDFC Savings,Travel,Ola
+2025-04-04,UPI/UPI Misc 1/Pay,158.55,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-04-04,UPI/Uber/Quick Pay,604.22,debit,UPI,SBI Savings,Travel,Uber
+2025-04-04,UPI/Ola/Purchase,475.93,debit,UPI,SBI Savings,Travel,Ola
+2025-04-04,UPI/BPCL/Order,3021.52,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-04-04,UPI/Ola/Pay,57.27,debit,UPI,SBI Savings,Travel,Ola
+2025-04-05,Rent Payment - Prestige Residency,22000.0,debit,NEFT,HDFC Savings,Rent,Prestige Residency
+2025-04-05,Home Loan EMI - HDFC Bank HL2023,18450.0,debit,EMI,HDFC Savings,EMI,HDFC Bank
+2025-04-05,UPI/Cafe Coffee Day/Food Order,286.37,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-04-05,BookMyShow/Movie Tickets,717.23,debit,Credit Card,HDFC Credit Card,Entertainment,BookMyShow
+2025-04-05,UPI/Indian Oil/Order,3417.49,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-04-05,UPI/Ola/Quick Pay,425.13,debit,UPI,HDFC Savings,Travel,Ola
+2025-04-05,UPI/Haldiram's/Pay,31.86,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-04-05,UPI/Subway/Quick Pay,294.43,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-04-06,UPI/Blinkit/Quick Bite,84.29,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-04-06,Tata Cliq/Online Purchase,820.3,debit,Credit Card,HDFC Credit Card,Shopping,Tata Cliq
+2025-04-06,UPI/Rapido/Order,143.23,debit,UPI,HDFC Savings,Travel,Rapido
+2025-04-06,UPI/Haldiram's/Pay,112.22,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-04-06,UPI/Reliance Fresh/Purchase,757.73,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-04-06,UPI/Haldiram's/Pay,339.44,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-04-06,UPI/Uber/Order,599.98,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-06,UPI/DMart/Purchase,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-04-06,UPI/Namma Yatri/Quick Pay,65.58,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-06,UPI/Rapido/Quick Pay,61.61,debit,UPI,HDFC Savings,Travel,Rapido
+2025-04-07,SIP - Axis Bluechip Fund,3000.0,debit,SIP,HDFC Savings,Investments,Axis Bluechip Fund
+2025-04-07,SIP - Mirae Asset ELSS,2000.0,debit,SIP,HDFC Savings,Investments,Mirae Asset ELSS
+2025-04-07,SIP - Parag Parikh Flexi,5000.0,debit,SIP,HDFC Savings,Investments,Parag Parikh Flexi Cap
+2025-04-07,UPI/Blinkit/Food Order,354.61,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-04-07,Ajio/Online Purchase,1354.32,debit,Credit Card,HDFC Credit Card,Shopping,Ajio
+2025-04-07,UPI/Uber/Quick Pay,71.65,debit,UPI,SBI Savings,Travel,Uber
+2025-04-07,UPI/Uber/Order,350.41,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-07,UPI/Domino's/Pay,605.78,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-04-08,Nykaa/Online Purchase,727.64,debit,UPI,SBI Savings,Shopping,Nykaa
+2025-04-08,UPI/Uber/Ride,645.59,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-08,UPI/BMTC/Bus Ticket,32.84,debit,UPI,HDFC Savings,Travel,BMTC
+2025-04-08,UPI/BPCL/Fuel,2409.85,debit,UPI,SBI Savings,Fuel,BPCL
+2025-04-08,ATM Withdrawal - HDFC Bank,5310.51,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-04-08,UPI/Ola/Order,533.83,debit,UPI,HDFC Savings,Travel,Ola
+2025-04-08,UPI/Reliance Fresh/Order,624.47,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-04-08,UPI/Indian Oil/Quick Pay,2323.95,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-04-08,UPI/Dunzo/Quick Pay,407.66,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-04-09,UPI/More Supermarket/Grocery,461.21,debit,UPI,SBI Savings,Groceries,More Supermarket
+2025-04-09,Myntra/Online Purchase,2755.78,debit,Credit Card,HDFC Credit Card,Shopping,Myntra
+2025-04-09,UPI/Ola/Ride,365.59,debit,UPI,SBI Savings,Travel,Ola
+2025-04-09,Subscription/YouTube Premium,189.0,debit,Credit Card,HDFC Credit Card,Entertainment,YouTube Premium
+2025-04-09,UPI/Uber/Order,284.16,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-09,UPI/Namma Yatri/Order,156.6,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-09,UPI/HP Petrol Pump/Pay,1572.16,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-04-09,UPI/Uber/Pay,73.63,debit,UPI,SBI Savings,Travel,Uber
+2025-04-10,Personal Loan EMI - ICICI Bank PL2024,6200.0,debit,EMI,HDFC Savings,EMI,ICICI Bank
+2025-04-10,UPI/Namma Yatri/Ride,219.02,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-10,UPI/Ola/Ride,366.44,debit,UPI,SBI Savings,Travel,Ola
+2025-04-10,UPI/Uber/Order,407.78,debit,UPI,SBI Savings,Travel,Uber
+2025-04-10,UPI/Ola/Pay,33.93,debit,UPI,SBI Savings,Travel,Ola
+2025-04-10,UPI/Namma Yatri/Purchase,139.04,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-10,UPI/Spencer's/Purchase,763.75,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-10,UPI/Indian Oil/Order,1624.1,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-04-11,Ajio/Online Purchase,1804.3,debit,UPI,SBI Savings,Shopping,Ajio
+2025-04-11,UPI/Pay/Priya K,1179.72,debit,UPI,HDFC Savings,Transfers,Priya K
+2025-04-11,UPI/Pay/Pooja N,268.89,debit,UPI,HDFC Savings,Transfers,Pooja N
+2025-04-11,UPI/Namma Yatri/Purchase,107.87,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-11,UPI/Domino's/Pay,158.95,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-04-11,UPI/Uber/Order,647.01,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-11,UPI/Namma Yatri/Order,77.12,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-11,UPI/Spencer's/Order,462.12,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-11,UPI/HP Petrol Pump/Quick Pay,2898.73,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-04-11,UPI/Namma Yatri/Purchase,144.66,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-11,UPI/HP Petrol Pump/Purchase,2299.46,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-04-11,UPI/Starbucks/Pay,115.36,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-04-11,UPI/Namma Yatri/Purchase,139.1,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-12,UPI/Pay/Vikram M,1104.7,debit,UPI,HDFC Savings,Transfers,Vikram M
+2025-04-12,UPI/Rapido/Order,117.06,debit,UPI,SBI Savings,Travel,Rapido
+2025-04-12,UPI/HP Petrol Pump/Quick Pay,1528.2,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-04-12,UPI/Swiggy Instamart/Purchase,143.14,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-04-12,UPI/Domino's/Purchase,417.77,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-04-12,UPI/Haldiram's/Order,345.72,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-04-13,UPI/Swiggy/Food Order,522.26,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-04-13,UPI/BMTC/Bus Ticket,19.53,debit,UPI,HDFC Savings,Travel,BMTC
+2025-04-13,UPI/Pay/Rahul S,1312.26,debit,UPI,SBI Savings,Transfers,Rahul S
+2025-04-13,UPI/Namma Yatri/Pay,133.96,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-13,UPI/Namma Yatri/Purchase,120.5,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-13,UPI/UPI Misc 0/Quick Pay,38.61,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-04-13,UPI/Cafe Coffee Day/Quick Pay,122.73,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-04-13,UPI/Dunzo/Order,239.76,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-04-13,UPI/Uber/Pay,102.13,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-14,UPI/McDonald's/Food Order,303.33,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-04-14,UPI/Zomato/Quick Bite,117.22,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-04-14,ATM Withdrawal - HDFC Bank,5612.44,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-04-14,UPI/Reliance Fresh/Order,565.18,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-04-14,UPI/Uber/Purchase,491.2,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-14,UPI/BPCL/Purchase,2092.76,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-04-14,UPI/Ola/Purchase,110.06,debit,UPI,SBI Savings,Travel,Ola
+2025-04-14,UPI/BPCL/Quick Pay,1519.47,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-04-15,Term Insurance Premium - LIC,14500.0,debit,NEFT,HDFC Savings,Insurance,LIC
+2025-04-15,UPI/Swiggy/Quick Bite,168.48,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-04-15,UPI/Uber/Ride,130.19,debit,UPI,SBI Savings,Travel,Uber
+2025-04-15,Bill/Airtel Mobile,410.3,debit,UPI,SBI Savings,Utilities,Airtel Mobile
+2025-04-15,Credit Card Bill Payment - HDFC CC,21732.76,debit,NEFT,HDFC Savings,Transfers,HDFC Credit Card
+2025-04-15,UPI/Received/Vikram M,958.64,credit,UPI,HDFC Savings,Transfers,Vikram M
+2025-04-15,UPI/McDonald's/Order,211.86,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-04-15,UPI/Zomato/Order,111.71,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-04-15,UPI/Haldiram's/Pay,224.43,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-04-15,UPI/Uber/Purchase,507.39,debit,UPI,SBI Savings,Travel,Uber
+2025-04-15,UPI/BPCL/Order,1876.99,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-04-15,UPI/Domino's/Purchase,157.91,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-04-15,UPI/Namma Yatri/Order,189.13,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-15,UPI/Swiggy Instamart/Purchase,487.43,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-04-15,UPI/Rapido/Quick Pay,183.17,debit,UPI,SBI Savings,Travel,Rapido
+2025-04-15,UPI/UPI Misc 4/Pay,140.44,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-04-15,UPI/Uber/Pay,180.01,debit,UPI,SBI Savings,Travel,Uber
+2025-04-15,UPI/Ola/Quick Pay,553.36,debit,UPI,SBI Savings,Travel,Ola
+2025-04-15,UPI/Ola/Quick Pay,173.38,debit,UPI,SBI Savings,Travel,Ola
+2025-04-16,UPI/BMTC/Bus Ticket,56.63,debit,UPI,SBI Savings,Travel,BMTC
+2025-04-16,UPI/Uber/Order,134.37,debit,UPI,SBI Savings,Travel,Uber
+2025-04-16,UPI/Uber/Order,187.25,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-16,UPI/HP Petrol Pump/Order,1401.31,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-04-16,UPI/Indian Oil/Quick Pay,1944.55,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-04-16,UPI/Rapido/Purchase,237.39,debit,UPI,SBI Savings,Travel,Rapido
+2025-04-16,UPI/Shell/Quick Pay,1394.7,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-04-16,UPI/Uber/Purchase,92.1,debit,UPI,SBI Savings,Travel,Uber
+2025-04-17,UPI/More Supermarket/Grocery,585.03,debit,UPI,HDFC Savings,Groceries,More Supermarket
+2025-04-17,UPI/BMTC/Bus Ticket,45.27,debit,UPI,SBI Savings,Travel,BMTC
+2025-04-17,UPI/Ola/Order,483.55,debit,UPI,SBI Savings,Travel,Ola
+2025-04-17,UPI/UPI Misc 0/Pay,295.74,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-04-17,UPI/Ola/Order,386.14,debit,UPI,SBI Savings,Travel,Ola
+2025-04-17,UPI/Namma Yatri/Purchase,109.48,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-17,UPI/Rapido/Pay,76.67,debit,UPI,HDFC Savings,Travel,Rapido
+2025-04-17,UPI/UPI Misc 1/Pay,121.36,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-04-17,UPI/Uber/Pay,123.62,debit,UPI,SBI Savings,Travel,Uber
+2025-04-18,Manipal Hospital/OPD Visit,1200.0,debit,UPI,SBI Savings,Healthcare,Manipal Hospital
+2025-04-18,UPI/Ola/Pay,82.26,debit,UPI,SBI Savings,Travel,Ola
+2025-04-18,UPI/UPI Misc 4/Pay,58.01,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-04-18,UPI/Rapido/Order,148.02,debit,UPI,SBI Savings,Travel,Rapido
+2025-04-18,UPI/Indian Oil/Quick Pay,1059.25,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-04-18,UPI/Namma Yatri/Pay,156.94,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-19,Bill/Jio Broadband,921.68,debit,UPI,HDFC Savings,Utilities,Jio Broadband
+2025-04-19,Apollo Pharmacy/Prescription,620.0,debit,UPI,HDFC Savings,Healthcare,Apollo Pharmacy
+2025-04-19,UPI/Reliance Fresh/Pay,569.91,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-04-19,UPI/Domino's/Quick Pay,78.36,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-04-20,Health Insurance - Star Health Annual,12800.0,debit,NEFT,HDFC Savings,Insurance,Star Health
+2025-04-20,Subscription/Spotify,119.0,debit,Credit Card,HDFC Credit Card,Entertainment,Spotify
+2025-04-20,UPI/Pay/Priya K,271.66,debit,UPI,HDFC Savings,Transfers,Priya K
+2025-04-20,UPI/Subway/Pay,401.27,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-04-20,UPI/Rapido/Pay,73.78,debit,UPI,HDFC Savings,Travel,Rapido
+2025-04-20,UPI/UPI Misc 2/Pay,140.7,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-04-20,UPI/Domino's/Purchase,287.45,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-04-20,UPI/Ola/Pay,155.85,debit,UPI,SBI Savings,Travel,Ola
+2025-04-21,UPI/Haldiram's/Food Order,396.04,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-04-21,UPI/Swiggy/Quick Bite,198.89,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-04-21,Nykaa/Online Purchase,1000.07,debit,UPI,HDFC Savings,Shopping,Nykaa
+2025-04-21,UPI/Namma Yatri/Ride,166.09,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-21,UPI/Uber/Ride,427.06,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-21,UPI/HP Petrol Pump/Fuel,791.49,debit,UPI,HDFC Savings,Fuel,HP Petrol Pump
+2025-04-21,UPI/Pay/Ankit J,215.34,debit,UPI,HDFC Savings,Transfers,Ankit J
+2025-04-21,UPI/Received/Sneha R,675.36,credit,UPI,SBI Savings,Transfers,Sneha R
+2025-04-21,UPI/Ola/Purchase,212.6,debit,UPI,HDFC Savings,Travel,Ola
+2025-04-21,UPI/Spencer's/Pay,636.65,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-21,UPI/Namma Yatri/Order,94.76,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-21,UPI/UPI Misc 0/Pay,106.68,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 0
+2025-04-21,UPI/McDonald's/Pay,371.25,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-04-21,UPI/Domino's/Quick Pay,47.38,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-04-22,UPI/Uber/Ride,575.54,debit,UPI,SBI Savings,Travel,Uber
+2025-04-22,UPI/Ola/Quick Pay,579.84,debit,UPI,SBI Savings,Travel,Ola
+2025-04-22,UPI/DMart/Pay,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-04-22,UPI/Uber/Pay,130.91,debit,UPI,SBI Savings,Travel,Uber
+2025-04-22,UPI/McDonald's/Pay,303.58,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-04-22,UPI/Uber/Pay,72.57,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-23,UPI/Spencer's/Pay,328.06,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-23,UPI/Spencer's/Purchase,658.33,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-04-23,UPI/Swiggy Instamart/Order,322.57,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-04-23,UPI/Zomato/Order,644.22,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-04-24,UPI/Big Basket/Grocery,2466.07,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-04-24,Tata Cliq/Online Purchase,1325.36,debit,Credit Card,HDFC Credit Card,Shopping,Tata Cliq
+2025-04-24,ATM Withdrawal - HDFC Bank,8923.94,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-04-24,UPI/EasyPark/Parking Fee,82.52,debit,UPI,SBI Savings,Miscellaneous,EasyPark
+2025-04-24,Mobile Recharge/Jio,300.76,debit,UPI,SBI Savings,Utilities,Jio
+2025-04-24,UPI/Starbucks/Purchase,167.84,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-04-24,UPI/Ola/Pay,304.71,debit,UPI,HDFC Savings,Travel,Ola
+2025-04-24,UPI/Spencer's/Order,798.89,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-24,UPI/Dunzo/Quick Pay,308.93,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-04-24,UPI/Uber/Quick Pay,220.06,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-25,UPI/Pay/Priya K,960.53,debit,UPI,SBI Savings,Transfers,Priya K
+2025-04-25,UPI/Pay/Ankit J,890.23,debit,UPI,SBI Savings,Transfers,Ankit J
+2025-04-25,UPI/Namma Yatri/Purchase,64.37,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-25,UPI/Ola/Pay,178.58,debit,UPI,SBI Savings,Travel,Ola
+2025-04-25,UPI/Namma Yatri/Pay,174.5,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-04-25,UPI/Reliance Fresh/Pay,528.3,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-04-25,UPI/UPI Misc 1/Purchase,177.78,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-04-25,UPI/Rapido/Purchase,154.92,debit,UPI,HDFC Savings,Travel,Rapido
+2025-04-25,UPI/BPCL/Quick Pay,2710.61,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-04-25,UPI/Namma Yatri/Quick Pay,30.75,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-25,UPI/Spencer's/Quick Pay,520.69,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-26,UPI/Blinkit/Food Order,510.14,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-04-26,UPI/Starbucks/Purchase,279.99,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-04-26,UPI/Blinkit/Purchase,40.85,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-04-26,UPI/Big Basket/Quick Pay,562.47,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-04-26,UPI/Ola/Order,39.44,debit,UPI,HDFC Savings,Travel,Ola
+2025-04-27,UPI/BMTC/Bus Ticket,34.12,debit,UPI,SBI Savings,Travel,BMTC
+2025-04-27,BWSSB/Water Bill,396.8,debit,UPI,SBI Savings,Utilities,BWSSB
+2025-04-27,UPI/HP Petrol Pump/Pay,3301.77,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-04-27,UPI/Rapido/Order,146.92,debit,UPI,SBI Savings,Travel,Rapido
+2025-04-27,UPI/Zomato/Purchase,159.22,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-04-27,UPI/BPCL/Pay,2138.07,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-04-27,UPI/Rapido/Pay,71.77,debit,UPI,SBI Savings,Travel,Rapido
+2025-04-27,UPI/Swiggy/Quick Pay,167.53,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-04-27,UPI/Indian Oil/Quick Pay,1582.78,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-04-27,UPI/Ola/Quick Pay,177.88,debit,UPI,SBI Savings,Travel,Ola
+2025-04-27,UPI/Uber/Order,40.07,debit,UPI,SBI Savings,Travel,Uber
+2025-04-27,UPI/Haldiram's/Purchase,174.24,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-04-27,UPI/Domino's/Order,159.63,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-04-28,UPI/Uber/Ride,171.67,debit,UPI,SBI Savings,Travel,Uber
+2025-04-28,UPI/Uber/Pay,587.47,debit,UPI,HDFC Savings,Travel,Uber
+2025-04-28,UPI/Rapido/Quick Pay,166.55,debit,UPI,HDFC Savings,Travel,Rapido
+2025-04-28,UPI/Spencer's/Pay,528.88,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-04-28,UPI/Indian Oil/Order,1916.01,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-04-29,UPI/Namma Yatri/Ride,227.58,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-04-29,Bill/BESCOM,1598.81,debit,UPI,SBI Savings,Utilities,BESCOM
+2025-04-29,Bill/Piped Gas (IGL),515.95,debit,UPI,HDFC Savings,Utilities,Piped Gas (IGL)
+2025-04-29,Subscription/Netflix,649.0,debit,Credit Card,HDFC Credit Card,Entertainment,Netflix
+2025-04-29,UPI/HP Petrol Pump/Order,1764.56,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-04-29,UPI/Cafe Coffee Day/Order,295.59,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-04-29,UPI/McDonald's/Purchase,410.81,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-04-30,UPI/Swiggy/Quick Bite,159.82,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-04-30,Ajio/Online Purchase,1226.84,debit,UPI,HDFC Savings,Shopping,Ajio
+2025-04-30,UPI/Ola/Pay,35.16,debit,UPI,SBI Savings,Travel,Ola
+2025-04-30,UPI/Rapido/Purchase,122.02,debit,UPI,HDFC Savings,Travel,Rapido
+2025-04-30,UPI/Reliance Fresh/Purchase,603.05,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-05-01,Rent Payment - Prestige Residency,22000.0,debit,NEFT,HDFC Savings,Rent,Prestige Residency
+2025-05-01,Myntra/Online Purchase,2746.82,debit,UPI,SBI Savings,Shopping,Myntra
+2025-05-01,BookMyShow/Movie Tickets,526.15,debit,Credit Card,HDFC Credit Card,Entertainment,BookMyShow
+2025-05-01,UPI/Ola/Pay,576.32,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-01,UPI/McDonald's/Order,447.6,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-05-01,UPI/Ola/Purchase,132.09,debit,UPI,SBI Savings,Travel,Ola
+2025-05-02,Salary Credit - TechCorp Solutions Pvt Ltd,200000.0,credit,NEFT,HDFC Savings,Salary,TechCorp Solutions
+2025-05-02,UPI/Swiggy/Food Order,454.56,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-05-02,UPI/Dunzo/Quick Bite,138.48,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-05-02,UPI/Shell/Fuel,2280.76,debit,UPI,HDFC Savings,Fuel,Shell
+2025-05-02,UPI/Uber/Pay,452.53,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-02,UPI/UPI Misc 2/Pay,279.48,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-05-02,UPI/Namma Yatri/Purchase,186.2,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-02,UPI/Ola/Purchase,53.72,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-02,UPI/UPI Misc 4/Pay,154.44,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-05-02,UPI/Shell/Purchase,1636.44,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-05-02,UPI/Shell/Order,754.34,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-05-02,UPI/Indian Oil/Purchase,862.6,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-05-03,UPI/Pay/Vikram M,984.77,debit,UPI,HDFC Savings,Transfers,Vikram M
+2025-05-03,UPI/Pay/Pooja N,781.6,debit,UPI,HDFC Savings,Transfers,Pooja N
+2025-05-03,UPI/KFC/Pay,409.93,debit,UPI,SBI Savings,Food & Dining,KFC
+2025-05-03,UPI/Zomato/Order,125.2,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-05-04,UPI/Domino's/Food Order,673.72,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-05-04,Bill/Piped Gas (IGL),742.37,debit,UPI,SBI Savings,Utilities,Piped Gas (IGL)
+2025-05-04,Subscription/Amazon Prime,179.0,debit,Credit Card,HDFC Credit Card,Entertainment,Amazon Prime
+2025-05-04,ATM Withdrawal - HDFC Bank,4500.39,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-05-04,UPI/Cafe Coffee Day/Quick Pay,82.16,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-05-04,UPI/Rapido/Order,181.61,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-04,UPI/Ola/Order,170.3,debit,UPI,SBI Savings,Travel,Ola
+2025-05-04,UPI/Ola/Quick Pay,137.14,debit,UPI,SBI Savings,Travel,Ola
+2025-05-04,UPI/Swiggy/Quick Pay,420.01,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-05-04,UPI/Rapido/Order,133.74,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-04,UPI/UPI Misc 4/Pay,269.6,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-05-05,Home Loan EMI - HDFC Bank HL2023,18450.0,debit,EMI,HDFC Savings,EMI,HDFC Bank
+2025-05-05,UPI/More Supermarket/Grocery,706.94,debit,UPI,SBI Savings,Groceries,More Supermarket
+2025-05-05,UPI/Reliance Fresh/Purchase,499.0,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-05-05,UPI/Indian Oil/Purchase,3460.65,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-05-05,UPI/Domino's/Order,36.9,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-05-05,UPI/Rapido/Pay,107.05,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-05,UPI/Swiggy Instamart/Quick Pay,858.2,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-05-06,UPI/Swiggy/Food Order,358.12,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-05-06,Tata Cliq/Online Purchase,3265.53,debit,Credit Card,HDFC Credit Card,Shopping,Tata Cliq
+2025-05-06,Subscription/Spotify,119.0,debit,Credit Card,HDFC Credit Card,Entertainment,Spotify
+2025-05-06,UPI/Subway/Purchase,430.8,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-05-06,UPI/Reliance Fresh/Quick Pay,629.92,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-05-06,UPI/Rapido/Pay,172.81,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-06,UPI/Haldiram's/Purchase,62.86,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-05-07,SIP - Axis Bluechip Fund,3000.0,debit,SIP,HDFC Savings,Investments,Axis Bluechip Fund
+2025-05-07,SIP - Mirae Asset ELSS,2000.0,debit,SIP,HDFC Savings,Investments,Mirae Asset ELSS
+2025-05-07,SIP - Parag Parikh Flexi,5000.0,debit,SIP,HDFC Savings,Investments,Parag Parikh Flexi Cap
+2025-05-07,UPI/Swiggy Instamart/Food Order,478.02,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-05-07,UPI/Swiggy Instamart/Quick Bite,146.49,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-05-07,UPI/HP Petrol Pump/Fuel,896.48,debit,UPI,SBI Savings,Fuel,HP Petrol Pump
+2025-05-07,UPI/Uber/Quick Pay,155.56,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-07,UPI/UPI Misc 2/Order,30.73,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-05-07,UPI/Reliance Fresh/Purchase,608.19,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-05-07,UPI/Rapido/Pay,74.76,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-07,UPI/Indian Oil/Order,1766.18,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-05-07,UPI/Cafe Coffee Day/Order,218.41,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-05-08,Amazon/Online Purchase,5305.76,debit,Credit Card,HDFC Credit Card,Shopping,Amazon
+2025-05-08,Tata Cliq/Online Purchase,1154.5,debit,UPI,HDFC Savings,Shopping,Tata Cliq
+2025-05-08,Mobile Recharge/Jio,319.46,debit,UPI,SBI Savings,Utilities,Jio
+2025-05-08,UPI/Reliance Fresh/Pay,789.59,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-05-08,UPI/Cafe Coffee Day/Purchase,200.06,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-05-08,UPI/Namma Yatri/Pay,79.06,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-08,UPI/Uber/Order,287.64,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-09,UPI/Zomato/Quick Bite,102.93,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-05-09,UPI/Blinkit/Purchase,388.83,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-05-09,UPI/Namma Yatri/Pay,87.17,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-09,UPI/Spencer's/Quick Pay,712.42,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-05-09,UPI/Rapido/Quick Pay,226.03,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-09,UPI/HP Petrol Pump/Order,2145.69,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-05-09,UPI/UPI Misc 2/Pay,72.73,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 2
+2025-05-09,UPI/Ola/Order,586.55,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-09,UPI/Swiggy Instamart/Quick Pay,179.36,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-05-10,Personal Loan EMI - ICICI Bank PL2024,6200.0,debit,EMI,HDFC Savings,EMI,ICICI Bank
+2025-05-10,UPI/Uber/Ride,493.85,debit,UPI,SBI Savings,Travel,Uber
+2025-05-10,Freelance/Financial Audit - Client C,12000.0,credit,NEFT,HDFC Savings,Business Income,Freelance Client
+2025-05-10,UPI/Ola/Pay,86.46,debit,UPI,SBI Savings,Travel,Ola
+2025-05-10,UPI/Big Basket/Purchase,614.2,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-05-10,UPI/Ola/Pay,41.79,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-10,UPI/Rapido/Quick Pay,194.26,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-10,UPI/Namma Yatri/Purchase,294.66,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-10,UPI/Swiggy/Pay,317.12,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-05-10,UPI/Uber/Quick Pay,99.98,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-10,UPI/Swiggy Instamart/Order,152.93,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-05-11,UPI/Blinkit/Quick Bite,187.71,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-05-11,UPI/More Supermarket/Grocery,1461.42,debit,UPI,HDFC Savings,Groceries,More Supermarket
+2025-05-11,UPI/Uber/Ride,504.48,debit,UPI,SBI Savings,Travel,Uber
+2025-05-11,UPI/Namma Yatri/Quick Pay,145.52,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-11,UPI/Uber/Pay,487.14,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-11,UPI/Namma Yatri/Pay,141.35,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-11,UPI/Rapido/Quick Pay,181.23,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-11,UPI/Ola/Quick Pay,176.94,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-11,UPI/Spencer's/Order,638.95,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-05-12,UPI/Spencer's/Order,729.68,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-05-12,UPI/Haldiram's/Quick Pay,158.69,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-05-12,UPI/Cafe Coffee Day/Purchase,152.51,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-05-12,UPI/Ola/Pay,200.07,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-12,UPI/Dunzo/Quick Pay,71.6,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-05-12,UPI/Namma Yatri/Order,67.78,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-12,UPI/Zomato/Quick Pay,170.96,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-05-13,ATM Withdrawal - HDFC Bank,5327.92,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-05-13,UPI/Starbucks/Pay,291.58,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-05-13,UPI/Shell/Purchase,2563.4,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-05-13,UPI/Uber/Pay,450.81,debit,UPI,SBI Savings,Travel,Uber
+2025-05-13,UPI/Shell/Pay,937.18,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-05-13,UPI/Rapido/Quick Pay,227.52,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-13,UPI/DMart/Quick Pay,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-05-13,UPI/Rapido/Purchase,111.17,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-14,UPI/Dunzo/Food Order,393.81,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-05-14,UPI/Big Basket/Grocery,674.93,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-05-14,UPI/Zepto/Grocery,526.18,debit,UPI,SBI Savings,Groceries,Zepto
+2025-05-14,Unacademy/Online Course,3743.39,debit,Credit Card,HDFC Credit Card,Education,Unacademy
+2025-05-14,UPI/Reliance Fresh/Order,599.51,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-05-14,UPI/Rapido/Purchase,148.87,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-14,UPI/DMart/Quick Pay,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-05-14,UPI/Dunzo/Order,216.28,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-05-15,UPI/Swiggy/Quick Bite,138.76,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-05-15,Meesho/Online Purchase,1109.0,debit,UPI,HDFC Savings,Shopping,Meesho
+2025-05-15,UPI/Ola/Ride,360.06,debit,UPI,SBI Savings,Travel,Ola
+2025-05-15,Bill/Jio Broadband,984.17,debit,UPI,SBI Savings,Utilities,Jio Broadband
+2025-05-15,Credit Card Bill Payment - HDFC CC,13050.92,debit,NEFT,HDFC Savings,Transfers,HDFC Credit Card
+2025-05-15,UPI/Pay/Rahul S,200.08,debit,UPI,SBI Savings,Transfers,Rahul S
+2025-05-15,UPI/Blinkit/Purchase,665.9,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-05-15,UPI/Ola/Purchase,37.31,debit,UPI,SBI Savings,Travel,Ola
+2025-05-15,UPI/UPI Misc 4/Order,240.28,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-05-15,UPI/Ola/Pay,489.49,debit,UPI,SBI Savings,Travel,Ola
+2025-05-15,UPI/Namma Yatri/Order,31.19,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-16,UPI/Namma Yatri/Purchase,190.94,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-16,UPI/Shell/Purchase,2655.35,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-05-16,UPI/Namma Yatri/Quick Pay,178.01,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-16,UPI/Zomato/Pay,676.52,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-05-16,UPI/KFC/Pay,487.74,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-05-16,UPI/Blinkit/Quick Pay,320.54,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-05-16,UPI/Spencer's/Quick Pay,750.14,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-05-17,UPI/BMTC/Bus Ticket,55.52,debit,UPI,HDFC Savings,Travel,BMTC
+2025-05-17,UPI/Received/Ankit J,1258.63,credit,UPI,SBI Savings,Transfers,Ankit J
+2025-05-17,UPI/Ola/Order,383.43,debit,UPI,SBI Savings,Travel,Ola
+2025-05-17,UPI/HP Petrol Pump/Pay,2785.58,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-05-17,UPI/Uber/Purchase,548.6,debit,UPI,SBI Savings,Travel,Uber
+2025-05-17,UPI/Shell/Pay,1080.26,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-05-17,UPI/Ola/Quick Pay,317.4,debit,UPI,SBI Savings,Travel,Ola
+2025-05-17,UPI/Namma Yatri/Pay,154.6,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-17,UPI/McDonald's/Quick Pay,183.24,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-05-17,UPI/Reliance Fresh/Order,742.06,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-05-17,UPI/UPI Misc 3/Order,210.15,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 3
+2025-05-18,UPI/Swiggy/Quick Bite,73.89,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-05-18,UPI/Nature's Basket/Grocery,1905.03,debit,UPI,HDFC Savings,Groceries,Nature's Basket
+2025-05-18,UPI/Rapido/Ride,200.2,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-18,UPI/Pay/Ankit J,1433.64,debit,UPI,HDFC Savings,Transfers,Ankit J
+2025-05-18,UPI/Dunzo/Purchase,106.89,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-05-18,UPI/Indian Oil/Quick Pay,2780.01,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-05-18,UPI/Ola/Quick Pay,501.41,debit,UPI,SBI Savings,Travel,Ola
+2025-05-19,UPI/McDonald's/Quick Bite,129.87,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-05-19,Nykaa/Online Purchase,1435.36,debit,UPI,SBI Savings,Shopping,Nykaa
+2025-05-19,UPI/Ola/Ride,279.14,debit,UPI,SBI Savings,Travel,Ola
+2025-05-19,UPI/Uber/Order,143.96,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-19,UPI/Ola/Pay,46.07,debit,UPI,SBI Savings,Travel,Ola
+2025-05-19,UPI/Ola/Quick Pay,427.5,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-20,UPI/Zomato/Food Order,237.38,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-05-20,UPI/Pay/Ankit J,785.25,debit,UPI,SBI Savings,Transfers,Ankit J
+2025-05-20,UPI/Pay/Vikram M,739.66,debit,UPI,HDFC Savings,Transfers,Vikram M
+2025-05-20,UPI/EasyPark/Parking Fee,64.19,debit,UPI,SBI Savings,Miscellaneous,EasyPark
+2025-05-20,UPI/Swiggy Instamart/Quick Pay,58.81,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-05-20,UPI/McDonald's/Purchase,321.28,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-05-20,UPI/Subway/Quick Pay,247.11,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-05-21,UPI/Ola/Order,137.17,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-21,UPI/Ola/Quick Pay,251.96,debit,UPI,SBI Savings,Travel,Ola
+2025-05-21,UPI/Blinkit/Quick Pay,474.2,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-05-21,UPI/Rapido/Pay,55.47,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-22,UPI/Namma Yatri/Ride,250.17,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-22,Subscription/YouTube Premium,189.0,debit,Credit Card,HDFC Credit Card,Entertainment,YouTube Premium
+2025-05-22,Thyrocare/Full Body Checkup,1999.0,debit,UPI,HDFC Savings,Healthcare,Thyrocare
+2025-05-22,UPI/Domino's/Quick Pay,120.85,debit,UPI,HDFC Savings,Food & Dining,Domino's
+2025-05-22,UPI/Rapido/Quick Pay,43.37,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-22,UPI/Ola/Quick Pay,119.95,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-22,UPI/Haldiram's/Quick Pay,284.66,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-05-23,Bill/Airtel Mobile,410.16,debit,UPI,SBI Savings,Utilities,Airtel Mobile
+2025-05-23,UPI/Received/Priya K,931.74,credit,UPI,SBI Savings,Transfers,Priya K
+2025-05-23,UPI/Namma Yatri/Purchase,249.77,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-23,UPI/UPI Misc 0/Quick Pay,187.64,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-05-23,UPI/Zomato/Purchase,726.19,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-05-23,UPI/Reliance Fresh/Pay,582.88,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-05-23,UPI/Namma Yatri/Order,103.18,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-23,UPI/Ola/Quick Pay,135.25,debit,UPI,SBI Savings,Travel,Ola
+2025-05-23,UPI/Namma Yatri/Quick Pay,210.72,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-23,UPI/DMart/Pay,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-05-23,UPI/BPCL/Pay,1075.55,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-05-24,UPI/Starbucks/Food Order,439.77,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-05-24,UPI/BMTC/Bus Ticket,17.21,debit,UPI,HDFC Savings,Travel,BMTC
+2025-05-24,UPI/Rapido/Purchase,120.21,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-24,UPI/Starbucks/Purchase,109.39,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-05-24,UPI/Swiggy Instamart/Order,181.79,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-05-24,UPI/Rapido/Quick Pay,165.53,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-24,UPI/Rapido/Quick Pay,235.14,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-25,UPI/Rapido/Ride,205.9,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-25,UPI/Ola/Purchase,77.76,debit,UPI,SBI Savings,Travel,Ola
+2025-05-25,UPI/Uber/Order,111.09,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-25,UPI/Ola/Pay,370.23,debit,UPI,SBI Savings,Travel,Ola
+2025-05-26,Subscription/Netflix,649.0,debit,Credit Card,HDFC Credit Card,Entertainment,Netflix
+2025-05-26,UPI/Uber/Quick Pay,40.32,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-26,UPI/Subway/Purchase,203.14,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-05-26,UPI/Namma Yatri/Quick Pay,78.92,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-26,UPI/Blinkit/Pay,272.38,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-05-27,UPI/UPI Misc 1/Purchase,129.92,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 1
+2025-05-27,UPI/Namma Yatri/Pay,147.2,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-27,UPI/Zomato/Quick Pay,416.09,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-05-27,UPI/Rapido/Quick Pay,79.31,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-28,UPI/BMTC/Bus Ticket,52.25,debit,UPI,HDFC Savings,Travel,BMTC
+2025-05-28,UPI/Shell/Pay,1428.67,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-05-28,UPI/Haldiram's/Pay,224.59,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-05-28,UPI/Uber/Order,344.34,debit,UPI,SBI Savings,Travel,Uber
+2025-05-28,UPI/UPI Misc 1/Order,57.31,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-05-29,UPI/Zepto/Grocery,500.32,debit,UPI,SBI Savings,Groceries,Zepto
+2025-05-29,UPI/Domino's/Quick Pay,175.68,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-05-29,UPI/Rapido/Quick Pay,188.26,debit,UPI,HDFC Savings,Travel,Rapido
+2025-05-29,UPI/Shell/Quick Pay,1466.67,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-05-29,UPI/Cafe Coffee Day/Order,141.15,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-05-29,UPI/Starbucks/Quick Pay,40.16,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-05-29,UPI/Ola/Order,312.02,debit,UPI,SBI Savings,Travel,Ola
+2025-05-29,UPI/Rapido/Pay,82.01,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-29,UPI/Zomato/Order,144.13,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-05-30,UPI/Dunzo/Food Order,424.42,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-05-30,UPI/Zomato/Quick Bite,95.49,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-05-30,UPI/Rapido/Ride,205.42,debit,UPI,SBI Savings,Travel,Rapido
+2025-05-30,UPI/Namma Yatri/Ride,137.23,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-30,UPI/Indian Oil/Fuel,1385.33,debit,UPI,SBI Savings,Fuel,Indian Oil
+2025-05-30,UPI/Pay/Sneha R,1224.23,debit,UPI,HDFC Savings,Transfers,Sneha R
+2025-05-30,UPI/Namma Yatri/Order,111.13,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-30,UPI/Big Basket/Quick Pay,756.99,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-05-30,UPI/Ola/Purchase,434.35,debit,UPI,SBI Savings,Travel,Ola
+2025-05-30,UPI/Reliance Fresh/Quick Pay,613.56,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-05-30,UPI/Spencer's/Pay,458.88,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-05-30,UPI/Spencer's/Order,638.22,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-05-31,UPI/Swiggy/Food Order,418.68,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-05-31,Tata Cliq/Online Purchase,1687.29,debit,UPI,HDFC Savings,Shopping,Tata Cliq
+2025-05-31,Meesho/Online Purchase,603.66,debit,UPI,HDFC Savings,Shopping,Meesho
+2025-05-31,UPI/Namma Yatri/Ride,68.88,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-05-31,Bill/BESCOM,2136.98,debit,UPI,HDFC Savings,Utilities,BESCOM
+2025-05-31,UPI/Namma Yatri/Purchase,154.69,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-31,UPI/Uber/Pay,166.07,debit,UPI,HDFC Savings,Travel,Uber
+2025-05-31,UPI/DMart/Pay,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-05-31,UPI/Dunzo/Pay,188.51,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-05-31,UPI/Swiggy/Quick Pay,564.65,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-05-31,UPI/Ola/Order,151.15,debit,UPI,HDFC Savings,Travel,Ola
+2025-05-31,UPI/Subway/Purchase,395.32,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-05-31,UPI/Uber/Purchase,115.01,debit,UPI,SBI Savings,Travel,Uber
+2025-05-31,UPI/Namma Yatri/Quick Pay,260.22,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-05-31,UPI/UPI Misc 3/Order,70.83,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-05-31,UPI/Namma Yatri/Order,64.48,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-06-01,Salary Credit - TechCorp Solutions Pvt Ltd,200000.0,credit,NEFT,HDFC Savings,Salary,TechCorp Solutions
+2025-06-01,UPI/Swiggy/Quick Bite,93.04,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-06-01,UPI/Uber/Quick Pay,155.42,debit,UPI,HDFC Savings,Travel,Uber
+2025-06-01,UPI/Uber/Purchase,118.15,debit,UPI,SBI Savings,Travel,Uber
+2025-06-01,UPI/Namma Yatri/Order,81.03,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-06-01,UPI/Rapido/Purchase,112.74,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-01,UPI/Blinkit/Order,773.48,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-06-02,UPI/Dunzo/Quick Bite,172.7,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-06-02,UPI/Uber/Ride,264.89,debit,UPI,HDFC Savings,Travel,Uber
+2025-06-02,Bill/Airtel Mobile,418.44,debit,UPI,HDFC Savings,Utilities,Airtel Mobile
+2025-06-02,BWSSB/Water Bill,486.04,debit,UPI,HDFC Savings,Utilities,BWSSB
+2025-06-02,UPI/DMart/Pay,800.0,debit,UPI,HDFC Savings,Groceries,DMart
+2025-06-02,UPI/Cafe Coffee Day/Purchase,178.25,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-06-02,UPI/Uber/Pay,356.93,debit,UPI,HDFC Savings,Travel,Uber
+2025-06-03,UPI/Swiggy/Quick Bite,140.85,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-06-03,UPI/Swiggy/Quick Bite,190.26,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-06-03,UPI/Zepto/Grocery,483.79,debit,UPI,SBI Savings,Groceries,Zepto
+2025-06-03,Meesho/Online Purchase,857.25,debit,Credit Card,HDFC Credit Card,Shopping,Meesho
+2025-06-03,UPI/Shell/Fuel,1008.2,debit,UPI,HDFC Savings,Fuel,Shell
+2025-06-03,Bill/Piped Gas (IGL),615.11,debit,UPI,HDFC Savings,Utilities,Piped Gas (IGL)
+2025-06-03,UPI/Pay/Vikram M,894.97,debit,UPI,HDFC Savings,Transfers,Vikram M
+2025-06-03,UPI/Zomato/Order,567.96,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-06-03,UPI/Zomato/Quick Pay,459.42,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-06-03,UPI/Shell/Pay,1549.48,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-06-03,UPI/Spencer's/Purchase,668.05,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-06-03,UPI/Spencer's/Purchase,687.7,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-06-03,UPI/Uber/Quick Pay,605.96,debit,UPI,SBI Savings,Travel,Uber
+2025-06-04,Bill/Jio Broadband,983.7,debit,UPI,SBI Savings,Utilities,Jio Broadband
+2025-06-04,UPI/Ola/Order,259.06,debit,UPI,SBI Savings,Travel,Ola
+2025-06-04,UPI/Swiggy Instamart/Quick Pay,793.1,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-06-04,UPI/Blinkit/Order,634.62,debit,UPI,HDFC Savings,Food & Dining,Blinkit
+2025-06-04,UPI/McDonald's/Order,439.1,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-06-04,UPI/Rapido/Order,47.62,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-04,UPI/UPI Misc 4/Pay,218.66,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-06-04,UPI/Rapido/Pay,167.11,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-04,UPI/UPI Misc 1/Order,200.4,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-06-05,Rent Payment - Prestige Residency,22000.0,debit,NEFT,HDFC Savings,Rent,Prestige Residency
+2025-06-05,Home Loan EMI - HDFC Bank HL2023,18450.0,debit,EMI,HDFC Savings,EMI,HDFC Bank
+2025-06-05,ATM Withdrawal - HDFC Bank,7494.57,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-06-05,UPI/Uber/Purchase,499.06,debit,UPI,HDFC Savings,Travel,Uber
+2025-06-05,UPI/HP Petrol Pump/Quick Pay,1381.35,debit,UPI,SBI Savings,Miscellaneous,HP Petrol Pump
+2025-06-05,UPI/UPI Misc 1/Quick Pay,50.34,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 1
+2025-06-05,UPI/Ola/Pay,50.52,debit,UPI,SBI Savings,Travel,Ola
+2025-06-06,Ajio/Online Purchase,1940.7,debit,UPI,SBI Savings,Shopping,Ajio
+2025-06-06,UPI/Ola/Ride,121.06,debit,UPI,SBI Savings,Travel,Ola
+2025-06-06,UPI/Subway/Order,77.2,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-06-06,UPI/UPI Misc 4/Pay,167.65,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-06-06,UPI/Namma Yatri/Purchase,235.87,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-06-06,UPI/Ola/Order,334.61,debit,UPI,SBI Savings,Travel,Ola
+2025-06-06,UPI/Swiggy/Purchase,182.48,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-06-06,UPI/DMart/Quick Pay,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-06-06,UPI/Subway/Pay,285.73,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-06-06,UPI/Reliance Fresh/Quick Pay,565.29,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-06-06,UPI/UPI Misc 1/Pay,119.17,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-06-06,UPI/UPI Misc 2/Order,60.07,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-06-06,UPI/Ola/Purchase,394.45,debit,UPI,SBI Savings,Travel,Ola
+2025-06-06,UPI/Ola/Quick Pay,142.12,debit,UPI,HDFC Savings,Travel,Ola
+2025-06-06,UPI/Big Basket/Quick Pay,670.73,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-06-06,UPI/Rapido/Quick Pay,194.92,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-06,UPI/UPI Misc 1/Purchase,145.37,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-06-06,UPI/Indian Oil/Quick Pay,788.14,debit,UPI,HDFC Savings,Miscellaneous,Indian Oil
+2025-06-07,SIP - Axis Bluechip Fund,3000.0,debit,SIP,HDFC Savings,Investments,Axis Bluechip Fund
+2025-06-07,SIP - Mirae Asset ELSS,2000.0,debit,SIP,HDFC Savings,Investments,Mirae Asset ELSS
+2025-06-07,SIP - Parag Parikh Flexi,5000.0,debit,SIP,HDFC Savings,Investments,Parag Parikh Flexi Cap
+2025-06-07,UPI/Starbucks/Food Order,501.16,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-06-07,UPI/Big Basket/Grocery,1574.72,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-06-07,UPI/Rapido/Pay,96.68,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-07,UPI/DMart/Purchase,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-06-07,UPI/Rapido/Order,176.9,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-07,UPI/Big Basket/Purchase,723.56,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-06-07,UPI/KFC/Order,60.79,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-06-08,UPI/BMTC/Bus Ticket,33.06,debit,UPI,SBI Savings,Travel,BMTC
+2025-06-08,Subscription/Spotify,119.0,debit,Credit Card,HDFC Credit Card,Entertainment,Spotify
+2025-06-08,Lenskart/Spectacles,4200.0,debit,UPI,SBI Savings,Healthcare,Lenskart
+2025-06-08,UPI/Ola/Quick Pay,59.42,debit,UPI,HDFC Savings,Travel,Ola
+2025-06-08,UPI/Domino's/Purchase,312.63,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-06-08,UPI/Starbucks/Pay,141.78,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-06-08,UPI/Uber/Order,608.12,debit,UPI,SBI Savings,Travel,Uber
+2025-06-09,UPI/Swiggy Instamart/Food Order,369.26,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-06-09,UPI/McDonald's/Quick Bite,65.69,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-06-09,UPI/HP Petrol Pump/Fuel,3242.15,debit,UPI,SBI Savings,Fuel,HP Petrol Pump
+2025-06-09,UPI/Pay/Vikram M,1099.41,debit,UPI,HDFC Savings,Transfers,Vikram M
+2025-06-09,UPI/Indian Oil/Order,1355.19,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-06-09,UPI/Namma Yatri/Order,156.55,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-06-09,UPI/Domino's/Pay,465.56,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-06-09,UPI/Rapido/Purchase,141.35,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-09,UPI/Rapido/Order,126.93,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-09,UPI/Blinkit/Pay,786.61,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-06-09,UPI/BPCL/Purchase,1101.67,debit,UPI,SBI Savings,Miscellaneous,BPCL
+2025-06-09,UPI/Ola/Quick Pay,190.74,debit,UPI,SBI Savings,Travel,Ola
+2025-06-09,UPI/Namma Yatri/Order,47.09,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-10,Personal Loan EMI - ICICI Bank PL2024,6200.0,debit,EMI,HDFC Savings,EMI,ICICI Bank
+2025-06-10,UPI/McDonald's/Food Order,227.32,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-06-10,MedPlus/Vitamins & Supplements,340.0,debit,UPI,SBI Savings,Healthcare,MedPlus
+2025-06-10,UPI/Pay/Vikram M,1453.16,debit,UPI,SBI Savings,Transfers,Vikram M
+2025-06-10,UPI/Subway/Purchase,309.55,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-06-10,UPI/Indian Oil/Order,3021.14,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-06-10,UPI/Haldiram's/Pay,284.65,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-06-10,UPI/Starbucks/Pay,313.51,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-06-10,UPI/Swiggy Instamart/Pay,158.38,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-06-10,UPI/Rapido/Order,34.75,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-10,UPI/Rapido/Purchase,128.21,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-11,UPI/Namma Yatri/Ride,210.43,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-11,Subscription/YouTube Premium,189.0,debit,Credit Card,HDFC Credit Card,Entertainment,YouTube Premium
+2025-06-11,UPI/Pay/Rahul S,187.03,debit,UPI,SBI Savings,Transfers,Rahul S
+2025-06-11,UPI/Rapido/Pay,99.93,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-11,UPI/Zomato/Order,547.07,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-06-11,UPI/Cafe Coffee Day/Order,148.94,debit,UPI,SBI Savings,Food & Dining,Cafe Coffee Day
+2025-06-11,UPI/Ola/Purchase,62.01,debit,UPI,HDFC Savings,Travel,Ola
+2025-06-11,UPI/Namma Yatri/Purchase,83.83,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-06-11,UPI/Subway/Purchase,246.4,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-06-11,UPI/Swiggy Instamart/Purchase,112.0,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-06-11,UPI/Rapido/Pay,183.27,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-11,UPI/Reliance Fresh/Quick Pay,796.43,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-06-12,Tata Cliq/Online Purchase,2943.61,debit,UPI,HDFC Savings,Shopping,Tata Cliq
+2025-06-12,UPI/Rapido/Ride,118.72,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-12,UPI/Namma Yatri/Quick Pay,59.89,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-12,UPI/Rapido/Purchase,177.74,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-12,UPI/Uber/Pay,478.13,debit,UPI,SBI Savings,Travel,Uber
+2025-06-13,UPI/Pay/Vikram M,642.72,debit,UPI,SBI Savings,Transfers,Vikram M
+2025-06-13,UPI/Received/Ankit J,1322.64,credit,UPI,SBI Savings,Transfers,Ankit J
+2025-06-13,UPI/UPI Misc 3/Order,223.91,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 3
+2025-06-13,UPI/Shell/Pay,3256.2,debit,UPI,SBI Savings,Miscellaneous,Shell
+2025-06-13,UPI/Subway/Order,201.62,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-06-13,UPI/Uber/Pay,74.18,debit,UPI,HDFC Savings,Travel,Uber
+2025-06-13,UPI/Zomato/Order,214.71,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-06-13,UPI/Namma Yatri/Pay,265.04,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-14,Advance Tax Payment - Income Tax Dept,9200.0,debit,NEFT,HDFC Savings,Taxes,Income Tax Dept
+2025-06-14,UPI/Namma Yatri/Quick Pay,39.59,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-14,UPI/Big Basket/Order,531.18,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-06-14,UPI/Shell/Purchase,960.11,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-06-14,UPI/Dunzo/Order,109.07,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-06-14,UPI/Uber/Pay,118.51,debit,UPI,SBI Savings,Travel,Uber
+2025-06-15,UPI/Spencer's/Grocery,963.24,debit,UPI,HDFC Savings,Groceries,Spencer's
+2025-06-15,UPI/Uber/Ride,174.83,debit,UPI,SBI Savings,Travel,Uber
+2025-06-15,UPI/BMTC/Bus Ticket,22.77,debit,UPI,HDFC Savings,Travel,BMTC
+2025-06-15,Credit Card Bill Payment - HDFC CC,16400.26,debit,NEFT,HDFC Savings,Transfers,HDFC Credit Card
+2025-06-15,UPI/UPI Misc 3/Pay,51.72,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 3
+2025-06-15,UPI/Uber/Order,343.12,debit,UPI,SBI Savings,Travel,Uber
+2025-06-15,UPI/Swiggy Instamart/Quick Pay,498.59,debit,UPI,HDFC Savings,Food & Dining,Swiggy Instamart
+2025-06-15,UPI/UPI Misc 0/Quick Pay,255.06,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-06-15,UPI/Swiggy Instamart/Purchase,835.23,debit,UPI,SBI Savings,Food & Dining,Swiggy Instamart
+2025-06-15,UPI/Uber/Pay,304.76,debit,UPI,SBI Savings,Travel,Uber
+2025-06-15,UPI/Namma Yatri/Quick Pay,200.23,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-16,UPI/More Supermarket/Grocery,1669.98,debit,UPI,HDFC Savings,Groceries,More Supermarket
+2025-06-16,UPI/BMTC/Bus Ticket,55.64,debit,UPI,HDFC Savings,Travel,BMTC
+2025-06-16,UPI/Reliance Fresh/Purchase,507.57,debit,UPI,HDFC Savings,Groceries,Reliance Fresh
+2025-06-16,UPI/Haldiram's/Pay,155.01,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-06-16,UPI/Swiggy/Pay,146.76,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-06-17,UPI/Ola/Ride,294.27,debit,UPI,HDFC Savings,Travel,Ola
+2025-06-17,UPI/Rapido/Order,202.62,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-17,UPI/Ola/Quick Pay,371.66,debit,UPI,SBI Savings,Travel,Ola
+2025-06-17,UPI/Ola/Pay,361.91,debit,UPI,HDFC Savings,Travel,Ola
+2025-06-17,UPI/Blinkit/Order,322.98,debit,UPI,SBI Savings,Food & Dining,Blinkit
+2025-06-17,UPI/Starbucks/Quick Pay,250.42,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-06-18,UPI/Subway/Food Order,221.97,debit,UPI,SBI Savings,Food & Dining,Subway
+2025-06-18,UPI/Spencer's/Grocery,1550.59,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-06-18,Bill/BESCOM,2072.21,debit,UPI,SBI Savings,Utilities,BESCOM
+2025-06-18,UPI/Namma Yatri/Purchase,61.76,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-18,UPI/Big Basket/Quick Pay,588.07,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-06-18,UPI/Namma Yatri/Order,100.03,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-18,UPI/Domino's/Pay,616.69,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-06-18,UPI/Cafe Coffee Day/Purchase,145.99,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-06-18,UPI/Namma Yatri/Quick Pay,169.05,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-18,UPI/Rapido/Pay,187.67,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-19,Ajio/Online Purchase,1849.98,debit,UPI,HDFC Savings,Shopping,Ajio
+2025-06-19,Subscription/Amazon Prime,179.0,debit,Credit Card,HDFC Credit Card,Entertainment,Amazon Prime
+2025-06-19,UPI/GiveIndia/Donation,1976.66,debit,UPI,SBI Savings,Miscellaneous,GiveIndia
+2025-06-19,UPI/Domino's/Quick Pay,283.28,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-06-19,UPI/BPCL/Quick Pay,2290.91,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-06-19,UPI/Shell/Pay,3426.21,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-06-19,UPI/Ola/Quick Pay,194.74,debit,UPI,SBI Savings,Travel,Ola
+2025-06-19,UPI/Rapido/Order,182.63,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-19,UPI/Big Basket/Order,752.73,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-06-19,UPI/UPI Misc 4/Quick Pay,263.33,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 4
+2025-06-20,Meesho/Online Purchase,1250.47,debit,Credit Card,HDFC Credit Card,Shopping,Meesho
+2025-06-20,UPI/Uber/Ride,119.0,debit,UPI,SBI Savings,Travel,Uber
+2025-06-20,UPI/Pay/Pooja N,125.93,debit,UPI,SBI Savings,Transfers,Pooja N
+2025-06-20,UPI/Pay/Priya K,1077.81,debit,UPI,HDFC Savings,Transfers,Priya K
+2025-06-20,UPI/Namma Yatri/Order,74.07,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-20,UPI/UPI Misc 4/Pay,101.79,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 4
+2025-06-21,UPI/Haldiram's/Food Order,363.23,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-06-21,Ajio/Online Purchase,2272.2,debit,Credit Card,HDFC Credit Card,Shopping,Ajio
+2025-06-21,UPI/Namma Yatri/Ride,79.28,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-21,UPI/HP Petrol Pump/Purchase,3340.77,debit,UPI,HDFC Savings,Miscellaneous,HP Petrol Pump
+2025-06-21,UPI/Rapido/Pay,132.05,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-22,ATM Withdrawal - HDFC Bank,4039.12,debit,Cash,HDFC Savings,Cash Withdrawal,HDFC ATM
+2025-06-22,UPI/Received/Priya K,1435.38,credit,UPI,HDFC Savings,Transfers,Priya K
+2025-06-22,UPI/Received/Pooja N,904.47,credit,UPI,SBI Savings,Transfers,Pooja N
+2025-06-22,UPI/Uber/Purchase,631.51,debit,UPI,SBI Savings,Travel,Uber
+2025-06-22,UPI/McDonald's/Pay,331.54,debit,UPI,HDFC Savings,Food & Dining,McDonald's
+2025-06-22,UPI/Ola/Purchase,129.87,debit,UPI,SBI Savings,Travel,Ola
+2025-06-23,UPI/Dunzo/Quick Bite,108.0,debit,UPI,HDFC Savings,Food & Dining,Dunzo
+2025-06-23,Meesho/Online Purchase,1204.0,debit,UPI,HDFC Savings,Shopping,Meesho
+2025-06-23,UPI/Cafe Coffee Day/Order,77.99,debit,UPI,HDFC Savings,Food & Dining,Cafe Coffee Day
+2025-06-23,UPI/Zomato/Purchase,48.71,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-06-23,UPI/Swiggy/Purchase,127.34,debit,UPI,SBI Savings,Food & Dining,Swiggy
+2025-06-23,UPI/Subway/Purchase,438.75,debit,UPI,HDFC Savings,Food & Dining,Subway
+2025-06-23,UPI/Rapido/Pay,120.62,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-23,UPI/Namma Yatri/Order,134.99,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-06-23,UPI/BPCL/Order,2437.75,debit,UPI,HDFC Savings,Miscellaneous,BPCL
+2025-06-23,UPI/Reliance Fresh/Quick Pay,630.86,debit,UPI,SBI Savings,Groceries,Reliance Fresh
+2025-06-24,UPI/Ola/Ride,127.0,debit,UPI,HDFC Savings,Travel,Ola
+2025-06-24,UPI/BPCL/Fuel,3111.19,debit,UPI,HDFC Savings,Fuel,BPCL
+2025-06-24,UPI/Dunzo/Order,143.87,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-06-24,UPI/Haldiram's/Order,201.36,debit,UPI,SBI Savings,Food & Dining,Haldiram's
+2025-06-24,UPI/McDonald's/Order,409.89,debit,UPI,SBI Savings,Food & Dining,McDonald's
+2025-06-25,Mobile Recharge/Jio,312.26,debit,UPI,SBI Savings,Utilities,Jio
+2025-06-25,UPI/Spencer's/Pay,323.25,debit,UPI,SBI Savings,Groceries,Spencer's
+2025-06-25,UPI/Zomato/Purchase,111.07,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-06-25,UPI/Namma Yatri/Order,182.74,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-25,UPI/Shell/Purchase,882.23,debit,UPI,HDFC Savings,Miscellaneous,Shell
+2025-06-26,UPI/Starbucks/Food Order,478.89,debit,UPI,HDFC Savings,Food & Dining,Starbucks
+2025-06-26,UPI/Namma Yatri/Ride,292.61,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-26,Subscription/Netflix,649.0,debit,Credit Card,HDFC Credit Card,Entertainment,Netflix
+2025-06-26,UPI/Namma Yatri/Quick Pay,85.11,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-26,UPI/Ola/Quick Pay,175.8,debit,UPI,SBI Savings,Travel,Ola
+2025-06-26,UPI/DMart/Order,800.0,debit,UPI,SBI Savings,Groceries,DMart
+2025-06-26,UPI/Uber/Purchase,366.62,debit,UPI,SBI Savings,Travel,Uber
+2025-06-26,UPI/Big Basket/Purchase,570.86,debit,UPI,HDFC Savings,Groceries,Big Basket
+2025-06-26,UPI/Indian Oil/Quick Pay,2619.21,debit,UPI,SBI Savings,Miscellaneous,Indian Oil
+2025-06-26,UPI/UPI Misc 2/Purchase,160.6,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 2
+2025-06-26,UPI/Swiggy/Purchase,456.04,debit,UPI,HDFC Savings,Food & Dining,Swiggy
+2025-06-26,UPI/Rapido/Purchase,77.92,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-27,UPI/Haldiram's/Food Order,288.65,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-06-27,Myntra/Online Purchase,1970.1,debit,UPI,SBI Savings,Shopping,Myntra
+2025-06-27,UPI/Haldiram's/Quick Pay,203.29,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-06-27,UPI/Starbucks/Pay,36.5,debit,UPI,SBI Savings,Food & Dining,Starbucks
+2025-06-27,UPI/Ola/Pay,31.69,debit,UPI,HDFC Savings,Travel,Ola
+2025-06-27,UPI/Haldiram's/Pay,260.51,debit,UPI,HDFC Savings,Food & Dining,Haldiram's
+2025-06-27,UPI/Uber/Purchase,121.62,debit,UPI,HDFC Savings,Travel,Uber
+2025-06-28,Mutual Fund Dividend - Axis,319.82,credit,Bank Credit,HDFC Savings,Investments,Axis Mutual Fund
+2025-06-28,UPI/Namma Yatri/Purchase,221.25,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-06-28,UPI/Rapido/Quick Pay,93.32,debit,UPI,SBI Savings,Travel,Rapido
+2025-06-28,UPI/UPI Misc 3/Pay,241.06,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 3
+2025-06-28,UPI/Big Basket/Quick Pay,759.27,debit,UPI,SBI Savings,Groceries,Big Basket
+2025-06-28,UPI/UPI Misc 0/Purchase,117.83,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-06-28,UPI/Ola/Quick Pay,132.76,debit,UPI,SBI Savings,Travel,Ola
+2025-06-28,UPI/Zomato/Purchase,291.92,debit,UPI,SBI Savings,Food & Dining,Zomato
+2025-06-28,UPI/Namma Yatri/Pay,98.34,debit,UPI,SBI Savings,Travel,Namma Yatri
+2025-06-28,UPI/UPI Misc 1/Order,63.14,debit,UPI,SBI Savings,Miscellaneous,UPI Misc 1
+2025-06-29,UPI/Zepto/Grocery,374.03,debit,UPI,SBI Savings,Groceries,Zepto
+2025-06-29,UPI/BMTC/Bus Ticket,50.23,debit,UPI,SBI Savings,Travel,BMTC
+2025-06-29,UPI/EasyPark/Parking Fee,130.21,debit,UPI,SBI Savings,Miscellaneous,EasyPark
+2025-06-29,UPI/Domino's/Order,438.84,debit,UPI,SBI Savings,Food & Dining,Domino's
+2025-06-29,UPI/Rapido/Purchase,137.54,debit,UPI,HDFC Savings,Travel,Rapido
+2025-06-29,UPI/UPI Misc 0/Order,82.48,debit,UPI,HDFC Savings,Miscellaneous,UPI Misc 0
+2025-06-30,Interest Credit - HDFC Savings,223.76,credit,Bank Credit,HDFC Savings,Business Income,HDFC Bank
+2025-06-30,UPI/Zomato/Pay,327.72,debit,UPI,HDFC Savings,Food & Dining,Zomato
+2025-06-30,UPI/Namma Yatri/Pay,53.94,debit,UPI,HDFC Savings,Travel,Namma Yatri
+2025-06-30,UPI/Dunzo/Quick Pay,477.66,debit,UPI,SBI Savings,Food & Dining,Dunzo
+2025-06-30,UPI/KFC/Purchase,55.09,debit,UPI,HDFC Savings,Food & Dining,KFC
+2025-06-30,UPI/Rapido/Pay,163.52,debit,UPI,HDFC Savings,Travel,Rapido
