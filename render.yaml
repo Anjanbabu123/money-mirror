@@ -2,14 +2,13 @@ services:
   - type: web
     name: moneymirror-backend
     runtime: python
-    rootDir: backend
-    buildCommand: pip install -r requirements.txt
-    startCommand: python3 -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    buildCommand: cd backend && pip install -r requirements.txt
+    startCommand: cd backend && python3 -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: SECRET_KEY
         generateValue: true
       - key: ALLOWED_ORIGINS
-        value: https://moneymirror.vercel.app
+        value: "*"
       - key: OPENAI_API_KEY
         value: ""
     healthCheckPath: /health
