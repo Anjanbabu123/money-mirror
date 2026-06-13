@@ -14,12 +14,13 @@ app = FastAPI(
 )
 
 import os as _os
-_allowed_origins = _os.environ.get("ALLOWED_ORIGINS", "http://localhost:5173,http://localhost:3000").split(",")
+_allowed_origins = _os.environ.get("ALLOWED_ORIGINS", "*").split(",")
+_use_wildcard = _allowed_origins == ["*"]
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=_allowed_origins,
-    allow_credentials=True,
+    allow_credentials=not _use_wildcard,  # credentials + wildcard is rejected by browsers
     allow_methods=["*"],
     allow_headers=["*"],
 )
