@@ -7,7 +7,7 @@ import {
 } from 'recharts';
 import { Smartphone, ShoppingCart, Zap, AlertTriangle, Target, Star } from 'lucide-react';
 
-const YEAR = 2025;
+const YEAR = new Date().getFullYear();
 
 function ScoreRing({ score }: { score: number }) {
   const grade = score >= 90 ? 'Excellent' : score >= 75 ? 'Good' : score >= 60 ? 'Average' : 'Needs Attention';
@@ -38,7 +38,7 @@ export default function AnalyticsPage() {
   useEffect(() => {
     Promise.all([
       transactionApi.list({ limit: 1500 }),
-      Promise.all([1,2,3,4,5,6].map(m => transactionApi.getSummary(YEAR, m).then(r => r.data))),
+      Promise.all([1,2,3,4,5,6,7,8,9,10,11,12].map(m => transactionApi.getSummary(YEAR, m).then(r => r.data))),
     ]).then(([txnR, sumR]) => {
       setTxns(txnR.data);
       setSummaries(sumR);

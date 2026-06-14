@@ -10,7 +10,8 @@ import {
   TrendingUp, TrendingDown, Wallet, PiggyBank, RefreshCw, AlertCircle
 } from 'lucide-react';
 
-const YEAR = 2025;
+const CURRENT_YEAR = new Date().getFullYear();
+const YEAR_OPTIONS = [CURRENT_YEAR - 1, CURRENT_YEAR, CURRENT_YEAR + 1].filter(y => y >= 2024);
 
 function StatCard({ label, value, sub, color, icon: Icon }: {
   label: string; value: string; sub?: string; color: string; icon: any
@@ -32,20 +33,21 @@ function StatCard({ label, value, sub, color, icon: Icon }: {
 export default function DashboardPage() {
   const [summary, setSummary] = useState<MonthlySummary | null>(null);
   const [monthlySeries, setMonthlySeries] = useState<any[]>([]);
-  const [selectedMonth, setSelectedMonth] = useState<number>(3); // March default
+  const [selectedMonth, setSelectedMonth] = useState<number>(new Date().getMonth() + 1);
+  const [selectedYear, setSelectedYear] = useState<number>(CURRENT_YEAR);
   const [loading, setLoading] = useState(true);
   const [seeding, setSeeding] = useState(false);
   const [error, setError] = useState('');
 
-  const loadData = async (month: number) => {
+  const loadData = async (month: number, year: number) => {
     setLoading(true);
     setError('');
     try {
       const [sumR, seriesResults] = await Promise.all([
-        transactionApi.getSummary(YEAR, month),
+        transactionApi.getSummary(year, month),
         Promise.all(
-          [1,2,3,4,5,6].map(m =>
-            transactionApi.getSummary(YEAR, m).then(r => ({
+          [1,2,3,4,5,6,7,8,9,10,11,12].map(m =>
+            transactionApi.getSummary(year, m).then(r => ({
               month: MONTHS[m - 1],
               Income: r.data.income,
               Expenses: r.data.expenses + r.data.emi,
@@ -63,13 +65,15 @@ export default function DashboardPage() {
     }
   };
 
-  useEffect(() => { loadData(selectedMonth); }, [selectedMonth]);
+  useEffect(() => { loadData(selectedMonth, selectedYear); }, [selectedMonth, selectedYear]);
 
   const seedDemo = async () => {
     setSeeding(true);
     try {
       await transactionApi.seedDemo();
-      await loadData(selectedMonth);
+      setSelectedYear(2025);
+      setSelectedMonth(3);
+      await loadData(3, 2025);
     } catch (e: any) {
       setError(e.response?.data?.detail || 'Failed to load sample data');
     } finally {
@@ -94,14 +98,22 @@ export default function DashboardPage() {
           <p className="text-sm text-gray-500 mt-0.5">Your money story, clearly told</p>
         </div>
         <div className="flex items-center gap-3">
+          {/* Year selector */}
+          <select
+            value={selectedYear}
+            onChange={e => setSelectedYear(Number(e.target.value))}
+            className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+          >
+            {YEAR_OPTIONS.map(y => <option key={y} value={y}>{y}</option>)}
+          </select>
           {/* Month selector */}
           <select
             value={selectedMonth}
             onChange={e => setSelectedMonth(Number(e.target.value))}
             className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
           >
-            {[1,2,3,4,5,6].map(m => (
-              <option key={m} value={m}>{MONTHS[m-1]} 2025</option>
+            {MONTHS.map((m, i) => (
+              <option key={i+1} value={i+1}>{m}</option>
             ))}
           </select>
           <button
@@ -223,7 +235,7 @@ export default function DashboardPage() {
 
           {/* Category table */}
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
-            <h3 className="font-semibold text-gray-800 mb-4">Category Breakdown — {MONTHS[selectedMonth-1]} 2025</h3>
+            <h3 className="font-semibold text-gray-800 mb-4">Category Breakdown — {MONTHS[selectedMonth-1]} {selectedYear}</h3>
             <div className="overflow-x-auto">
               <table className="w-full text-sm">
                 <thead>
